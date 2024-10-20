@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ccd2ef38e603371",
+        "id": "44e8b9392d8b44c4",
         "type": "tabs",
         "children": [
           {
-            "id": "82c9a934fbe779fd",
+            "id": "fdbac3e8f1be900f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "e44627c334e22848",
+            "id": "991271c3f482ec42",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -134,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sdfasdf.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of sdfasdf"
+              "title": "Outline"
             }
           },
           {
@@ -180,34 +178,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82c9a934fbe779fd",
+  "active": "fdbac3e8f1be900f",
   "lastOpenFiles": [
+    "2024-10-20.md",
+    "FleetingNotes/Woman divorce and separation.md",
+    "FleetingNotes/Mi hi .md",
+    "FleetingNotes/Let it go .md",
+    "FleetingNotes/Job hunting .md",
+    "FleetingNotes/Formula 1.md",
+    "FleetingNotes/Dogs .md",
+    "2024-10-19.md",
+    "FleetingNotes/Smart Notes - Atomic Ideeas.md",
+    "Untitled.md",
+    "Q/E/C method.md",
+    "Q/E",
+    "Q",
+    "FleetingNotes/Smart nots .md",
+    "Kindle Highlights/Ahrens-How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking by Sönke Ahrens.md",
+    "Kindle Highlights/Berry-Dee-Monster.md",
+    "FleetingNotes/ec38f7d4-e15d-4515-a791-adff4b194d55.md",
+    "Templates/daily-note-template.md",
+    "]- [ ] [[161.md",
+    "Kindle Highlights/Thompson-Coders.md",
     "RHIA IA IAISHDASDASDAASDASS.md",
     "sdfasdf.md",
-    "Untitled.md",
-    "Kindle Highlights/Thompson-Coders.md",
     "Kindle Highlights/Sincero-You Are a Badass®.md",
     "Kindle Highlights/Schwartz-The Paradox of Choice.md",
     "Kindle Highlights/Seneca_et_al-Anger, Mercy, Revenge.md",
     "Kindle Highlights/Schwartz-Diets Dont Work.md",
     "Kindle Highlights/Schwab-The Invisible Life of Addie LaRue.md",
     "Kindle Highlights/Salzgeber-The Little Book of Stoicism.md",
-    "Kindle Highlights/Laje-La batalla cultural.md",
-    "Kindle Highlights/Sabatier-Robin-Financial Freedom.md",
-    "Kindle Highlights/Saginor-Playground.md",
-    "Kindle Highlights/Peterson-12 Rules for Life.md",
-    "Kindle Highlights/Ornstein-Ehrlich-New World New Mind.md",
-    "Kindle Highlights/May-Love & Will.md",
-    "Kindle Highlights/Manson-The Subtle Art of Not Giving a Fuckby Mark Manson.md",
-    "Kindle Highlights/Kiyosaki-Rich Dad Poor Dad.md",
-    "Kindle Highlights/Kislev-Happy Singlehood.md",
-    "Kindle Highlights/Jung_et_al-Modern Man in Search of a Soul.md",
-    "Kindle Highlights/Johnson-The Entrepreneur Mind.md",
-    "Kindle Highlights/Housel-The Psychology of Money.md",
-    "Kindle Highlights/Holiday-The Obstacle Is the Way.md",
-    "Kindle Highlights/Hitz-Lost in Thought.md",
-    "Kindle Highlights/Heath-Made to Stick_ Why Some Ideas Survive and Others Die by Chip Heath.md",
-    "Kindle Highlights/Greene-Mastery.md",
     "remote-blog/tsconfig.json",
     "remote-blog/tailwind.config.js",
     "remote-blog/styles/additional-styles/utils.css",
@@ -222,8 +222,6 @@
     "remote-blog/public/assets/blog/authors/jj.jpeg",
     "remote-blog/public/assets/blog/preview",
     "remote-blog/public/assets/blog/hello-world",
-    "remote-blog/public/assets/blog/dynamic-routing",
-    "remote-blog/public/assets/blog/authors",
     "remote-blog/public/favicon/safari-pinned-tab.svg",
     "remote-blog/public/favicon/mstile-150x150.png",
     "remote-blog/public/favicon/favicon-32x32.png",

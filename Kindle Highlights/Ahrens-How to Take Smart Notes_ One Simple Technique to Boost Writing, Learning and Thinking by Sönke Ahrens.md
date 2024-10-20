@@ -1,9 +1,7 @@
 ---
 kindle-sync:
-  bookId: '64476'
-  title: >-
-    How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and
-    Thinking by Sönke Ahrens
+  bookId: "64476"
+  title: How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking by Sönke Ahrens
   author: Sönke Ahrens
   highlightsCount: 6
 ---

@@ -2,14 +2,14 @@
 # Mandatory fields
 id: "af7e96ea-b686-460c-9537-bcd2981b802c"
 # Optional fields
-title: "Dogs "
+title: "Dogs"
 tags: []
 source: ""
 source_title: ""
 source_description: ""
 source_image_url: ""
 created_date: "2024-10-19"
-modified_date: "2024-10-19"
+modified_date: "2024-10-20"
 ---
 He always  jumps on me when he need me o attend to his needs. 
 
