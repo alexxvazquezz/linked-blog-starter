@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f505ec46c6e1b93e",
+        "id": "8ccd2ef38e603371",
         "type": "tabs",
         "children": [
           {
-            "id": "96ebd4cb20544674",
+            "id": "82c9a934fbe779fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sdfasdf.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "sdfasdf"
-            }
-          },
-          {
-            "id": "f32a0f8d2a6c6ac5",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "remote-blog/common_md/publish-your-obsidian-notes-with-linked-blog-starter.md",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (publish-your-obsidian-notes-with-linked-blog-starter)"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,12 +180,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f32a0f8d2a6c6ac5",
+  "active": "82c9a934fbe779fd",
   "lastOpenFiles": [
     "RHIA IA IAISHDASDASDAASDASS.md",
     "sdfasdf.md",
     "Untitled.md",
-    "2024-10-19.md",
+    "Kindle Highlights/Thompson-Coders.md",
+    "Kindle Highlights/Sincero-You Are a Badass®.md",
+    "Kindle Highlights/Schwartz-The Paradox of Choice.md",
+    "Kindle Highlights/Seneca_et_al-Anger, Mercy, Revenge.md",
+    "Kindle Highlights/Schwartz-Diets Dont Work.md",
+    "Kindle Highlights/Schwab-The Invisible Life of Addie LaRue.md",
+    "Kindle Highlights/Salzgeber-The Little Book of Stoicism.md",
+    "Kindle Highlights/Laje-La batalla cultural.md",
+    "Kindle Highlights/Sabatier-Robin-Financial Freedom.md",
+    "Kindle Highlights/Saginor-Playground.md",
+    "Kindle Highlights/Peterson-12 Rules for Life.md",
+    "Kindle Highlights/Ornstein-Ehrlich-New World New Mind.md",
+    "Kindle Highlights/May-Love & Will.md",
+    "Kindle Highlights/Manson-The Subtle Art of Not Giving a Fuckby Mark Manson.md",
+    "Kindle Highlights/Kiyosaki-Rich Dad Poor Dad.md",
+    "Kindle Highlights/Kislev-Happy Singlehood.md",
+    "Kindle Highlights/Jung_et_al-Modern Man in Search of a Soul.md",
+    "Kindle Highlights/Johnson-The Entrepreneur Mind.md",
+    "Kindle Highlights/Housel-The Psychology of Money.md",
+    "Kindle Highlights/Holiday-The Obstacle Is the Way.md",
+    "Kindle Highlights/Hitz-Lost in Thought.md",
+    "Kindle Highlights/Heath-Made to Stick_ Why Some Ideas Survive and Others Die by Chip Heath.md",
+    "Kindle Highlights/Greene-Mastery.md",
     "remote-blog/tsconfig.json",
     "remote-blog/tailwind.config.js",
     "remote-blog/styles/additional-styles/utils.css",
@@ -225,28 +228,6 @@
     "remote-blog/public/favicon/mstile-150x150.png",
     "remote-blog/public/favicon/favicon-32x32.png",
     "remote-blog/public/favicon/favicon-16x16.png",
-    "remote-blog/common_md/works-out-of-the-box-with-markdown-files.md",
-    "remote-blog/common_md/update-publish-settings-github-actions.md",
-    "remote-blog/common_md/statically-generated.md",
-    "remote-blog/common_md/reinventing-the-wheel.md",
-    "remote-blog/common_md/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "remote-blog/common_md/linked-blog-starter-does-not-reinvent-wheel.md",
-    "remote-blog/common_md/install-linked-blog-starter-locally.md",
-    "remote-blog/common_md/home.md",
-    "remote-blog/common_md/get-project-id-account-id-and-token-vercel.md",
-    "remote-blog/common_md/deploy-a-custom-linked-blog-starter.md",
-    "remote-blog/common_md/connect-obsidian-vault-with-github.md",
-    "remote-blog/common_md/accepted-markdown-metadata.md",
-    "remote-blog/README.md",
-    "Templates/daily-note-template.md",
-    "FleetingNotes/Dogs .md",
-    "FleetingNotes/Sala ella.md",
-    "DailyNotes/2024-10-19.md",
-    "FleetingNotes/Let it go .md",
-    "FleetingNotes/Job hunting .md",
-    "FleetingNotes/Formula 1.md",
-    "FleetingNotes/4d20d46f-7066-411b-b4f4-50b434643775.md",
-    "FleetingNotes/8f9de9ec-4739-4127-aaaf-c6dd91653b75.md",
     "Untitled.canvas"
   ]
 }

@@ -17,8 +17,7 @@ kindle-sync:
 
 ## Highlights
 Nassim Taleb writes in his book Fooled By Randomness: — location: [1310](kindle://book?action=open&asin=B084HJSJJ2&location=1310) ^ref-26322
-
-Book read
+#booksToRead
 
 ---
 book, The Intelligent Investor, — location: [1350](kindle://book?action=open&asin=B084HJSJJ2&location=1350) ^ref-62664
