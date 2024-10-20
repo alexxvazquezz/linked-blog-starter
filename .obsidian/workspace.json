@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "1eb8afe3656eeeae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f505ec46c6e1b93e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96ebd4cb20544674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sdfasdf.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sdfasdf"
+            }
+          },
+          {
+            "id": "f32a0f8d2a6c6ac5",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "remote-blog/common_md/publish-your-obsidian-notes-with-linked-blog-starter.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (publish-your-obsidian-notes-with-linked-blog-starter)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1763b2140232c13d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4295ad2352cd53f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87a51a68d6a2c356",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e7eaafa0e2dbd40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e44627c334e22848",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "4b9e57779318ada2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6117e06ee90be7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e65dae490630e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "d462fac2200feda5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a71b2fa3d4d18982",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9eb49f0da64f669d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sdfasdf.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sdfasdf"
+            }
+          },
+          {
+            "id": "1edf37cbfaa6e7f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d8e42a69941a28e3",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f32a0f8d2a6c6ac5",
+  "lastOpenFiles": [
+    "RHIA IA IAISHDASDASDAASDASS.md",
+    "sdfasdf.md",
+    "Untitled.md",
+    "2024-10-19.md",
+    "remote-blog/tsconfig.json",
+    "remote-blog/tailwind.config.js",
+    "remote-blog/styles/additional-styles/utils.css",
+    "remote-blog/styles/index.css",
+    "remote-blog/styles/additional-styles",
+    "remote-blog/styles",
+    "remote-blog/public/assets/blog/preview/cover.jpg",
+    "remote-blog/public/assets/blog/hello-world/cover.jpg",
+    "remote-blog/public/assets/blog/dynamic-routing/cover.jpg",
+    "remote-blog/public/assets/blog/authors/tim.jpeg",
+    "remote-blog/public/assets/blog/authors/joe.jpeg",
+    "remote-blog/public/assets/blog/authors/jj.jpeg",
+    "remote-blog/public/assets/blog/preview",
+    "remote-blog/public/assets/blog/hello-world",
+    "remote-blog/public/assets/blog/dynamic-routing",
+    "remote-blog/public/assets/blog/authors",
+    "remote-blog/public/favicon/safari-pinned-tab.svg",
+    "remote-blog/public/favicon/mstile-150x150.png",
+    "remote-blog/public/favicon/favicon-32x32.png",
+    "remote-blog/public/favicon/favicon-16x16.png",
+    "remote-blog/common_md/works-out-of-the-box-with-markdown-files.md",
+    "remote-blog/common_md/update-publish-settings-github-actions.md",
+    "remote-blog/common_md/statically-generated.md",
+    "remote-blog/common_md/reinventing-the-wheel.md",
+    "remote-blog/common_md/publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "remote-blog/common_md/linked-blog-starter-does-not-reinvent-wheel.md",
+    "remote-blog/common_md/install-linked-blog-starter-locally.md",
+    "remote-blog/common_md/home.md",
+    "remote-blog/common_md/get-project-id-account-id-and-token-vercel.md",
+    "remote-blog/common_md/deploy-a-custom-linked-blog-starter.md",
+    "remote-blog/common_md/connect-obsidian-vault-with-github.md",
+    "remote-blog/common_md/accepted-markdown-metadata.md",
+    "remote-blog/README.md",
+    "Templates/daily-note-template.md",
+    "FleetingNotes/Dogs .md",
+    "FleetingNotes/Sala ella.md",
+    "DailyNotes/2024-10-19.md",
+    "FleetingNotes/Let it go .md",
+    "FleetingNotes/Job hunting .md",
+    "FleetingNotes/Formula 1.md",
+    "FleetingNotes/4d20d46f-7066-411b-b4f4-50b434643775.md",
+    "FleetingNotes/8f9de9ec-4739-4127-aaaf-c6dd91653b75.md",
+    "Untitled.canvas"
+  ]
+}
