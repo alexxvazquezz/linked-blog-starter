@@ -28,5 +28,7 @@ Masculinity. Protect, ability to provide.
 
 Men have easy access to sex, so they don't have to develop masculine traits. This seems to have inhanced the masuclnity in woman. They practive detached sex. Men are disposible. No children, no long term plans. 
 
+This detachecment woman are fealing, is this part of why so much prostitution? Onlyfans and just the interest in money
+
 Do men only sex? Men really want intimacy with women. It's the combination between intimacy and sex. Intimate Sex
 
