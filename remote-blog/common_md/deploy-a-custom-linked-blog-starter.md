@@ -1,6 +1,3 @@
----
-title: Deploy a custom version of the linked-blog-starter
----
 
 By the end of this tutorial, you will have a custom version of the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) that deploys to Vercel
 

@@ -1,9 +1,11 @@
 ---
 kindle-sync:
-  bookId: "64476"
-  title: How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking by Sönke Ahrens
+  bookId: '64476'
+  title: >-
+    How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and
+    Thinking by Sönke Ahrens
   author: Sönke Ahrens
-  highlightsCount: 6
+  highlightsCount: 7
 ---
 # How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking by Sönke Ahrens
 ## Metadata
@@ -26,9 +28,14 @@ book to reaD
 ---
 David Allen’s “Getting Things Done” — location: [193]() ^ref-18486
 
-book to read
+#booksToRead 
 
 ---
 take from Allen as an important insight is that the secret to a successful — location: [214]() ^ref-35183
+
+---
+
+the secret to a successful organization lies in the holistic perspective. Everything needs to be taken care of, otherwise the neglected bits will nag us until the unimportant tasks become urgent. — location: [214]() ^ref-58337
+
 
 ---

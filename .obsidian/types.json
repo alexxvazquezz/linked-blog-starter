@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "id": "text",
+    "Feed nt dig": "checkbox",
+    "Books": "multitext",
+    "Podcasters": "multitext"
+  }
+}
