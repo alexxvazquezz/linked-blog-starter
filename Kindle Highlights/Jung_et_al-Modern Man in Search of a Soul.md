@@ -10,9 +10,8 @@ kindle-sync:
 ---
 # Modern Man in Search of a Soul
 ## Metadata
-* Author: [Carl Gustav  Jung, W.S. Dell, and Cary F. Baynes](https://www.amazon.comundefined)
+* Author: [[Carl Gustav  Jung, W.S. Dell, and Cary F. Baynes]]
 * ASIN: B005KK7VEI
-* ISBN: 041525390X
 * Reference: https://www.amazon.com/dp/B005KK7VEI
 * [Kindle link](kindle://book?action=open&asin=B005KK7VEI)
 

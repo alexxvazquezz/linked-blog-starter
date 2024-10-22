@@ -10,7 +10,7 @@ kindle-sync:
 ---
 # Monster
 ## Metadata
-* Author: [Aileen Wuornos & Christopher Berry-Dee](https://www.amazon.comundefined)
+* Author: [[Aileen Wuornos & Christopher Berry-Dee]]
 * ASIN: B0078XGZ8S
 * Reference: https://www.amazon.com/dp/B0078XGZ8S
 * [Kindle link](kindle://book?action=open&asin=B0078XGZ8S)

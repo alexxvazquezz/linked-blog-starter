@@ -12,9 +12,8 @@ kindle-sync:
 ---
 # Diets Dont Work
 ## Metadata
-* Author: [Bob Schwartz](https://www.amazon.comundefined)
+* Author: [[Bob Schwartz]]
 * ASIN: B003F8S7FE
-* ISBN: 0942540166
 * Reference: https://www.amazon.com/dp/B003F8S7FE
 * [Kindle link](kindle://book?action=open&asin=B003F8S7FE)
 

@@ -12,9 +12,8 @@ kindle-sync:
 ---
 # I Hate You--Dont Leave Me: Third Edition
 ## Metadata
-* Author: [Jerold J. Kreisman and Hal Straus](https://www.amazon.comundefined)
+* Author: [[Jerold J. Kreisman and Hal Straus]]
 * ASIN: B09BDVD61D
-* ISBN: 0593418492
 * Reference: https://www.amazon.com/dp/B09BDVD61D
 * [Kindle link](kindle://book?action=open&asin=B09BDVD61D)
 

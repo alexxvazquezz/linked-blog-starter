@@ -12,9 +12,8 @@ kindle-sync:
 ---
 # La batalla cultural
 ## Metadata
-* Author: [Agustín Laje](https://www.amazon.comundefined)
+* Author: [[Agustín Laje]]
 * ASIN: B09YMV4X11
-* ISBN: 1400238412
 * Reference: https://www.amazon.com/dp/B09YMV4X11
 * [Kindle link](kindle://book?action=open&asin=B09YMV4X11)
 

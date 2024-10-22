@@ -10,7 +10,7 @@ kindle-sync:
 ---
 # New World New Mind
 ## Metadata
-* Author: [Robert Ornstein and Paul Ehrlich](https://www.amazon.comundefined)
+* Author: [[Robert Ornstein and Paul Ehrlich]]
 * ASIN: B0028RXXDE
 * Reference: https://www.amazon.com/dp/B0028RXXDE
 * [Kindle link](kindle://book?action=open&asin=B0028RXXDE)

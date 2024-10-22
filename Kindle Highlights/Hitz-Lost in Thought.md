@@ -10,9 +10,8 @@ kindle-sync:
 ---
 # Lost in Thought
 ## Metadata
-* Author: [Zena Hitz](https://www.amazon.comundefined)
+* Author: [[Zena Hitz]]
 * ASIN: B0824B74F9
-* ISBN: 0691229198
 * Reference: https://www.amazon.com/dp/B0824B74F9
 * [Kindle link](kindle://book?action=open&asin=B0824B74F9)
 

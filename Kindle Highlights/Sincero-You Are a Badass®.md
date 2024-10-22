@@ -12,9 +12,8 @@ kindle-sync:
 ---
 # You Are a Badass®
 ## Metadata
-* Author: [Jen Sincero](https://www.amazon.comundefined)
+* Author: [[Jen Sincero]]
 * ASIN: B00B3M3VWS
-* ISBN: 0762447699
 * Reference: https://www.amazon.com/dp/B00B3M3VWS
 * [Kindle link](kindle://book?action=open&asin=B00B3M3VWS)
 

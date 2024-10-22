@@ -10,7 +10,7 @@ kindle-sync:
 ---
 # Happy Singlehood
 ## Metadata
-* Author: [Elyakim Kislev](https://www.amazon.comundefined)
+* Author: [[Elyakim Kislev]]
 * ASIN: B07MFGV5HC
 * Reference: https://www.amazon.com/dp/B07MFGV5HC
 * [Kindle link](kindle://book?action=open&asin=B07MFGV5HC)

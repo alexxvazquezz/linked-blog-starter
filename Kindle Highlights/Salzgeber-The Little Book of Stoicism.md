@@ -12,9 +12,8 @@ kindle-sync:
 ---
 # The Little Book of Stoicism
 ## Metadata
-* Author: [Jonas Salzgeber](https://www.amazon.comundefined)
+* Author: [[Jonas Salzgeber]]
 * ASIN: B07MY2VFQD
-* ISBN: 3952506907
 * Reference: https://www.amazon.com/dp/B07MY2VFQD
 * [Kindle link](kindle://book?action=open&asin=B07MY2VFQD)
 

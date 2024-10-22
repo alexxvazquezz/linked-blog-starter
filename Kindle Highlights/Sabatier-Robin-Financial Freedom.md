@@ -10,9 +10,8 @@ kindle-sync:
 ---
 # Financial Freedom
 ## Metadata
-* Author: [Grant Sabatier and Vicki Robin](https://www.amazon.comundefined)
+* Author: [[Grant Sabatier and Vicki Robin]]
 * ASIN: B07DH8XKGP
-* ISBN: 0525540881
 * Reference: https://www.amazon.com/dp/B07DH8XKGP
 * [Kindle link](kindle://book?action=open&asin=B07DH8XKGP)
 

@@ -4,12 +4,12 @@ id: "14ff50f7-e143-4c06-9db6-c02d36c0b4a2"
 # Optional fields
 title: "Alpha Male"
 tags: []
-source: "Sadia Khan"
+source: "Podcast"
 source_title: ""
 source_description: ""
 source_image_url: ""
 created_date: "2024-10-21"
-modified_date: "2024-10-21"
+modified_date: "2024-10-22"
 ---
 [Video](https://www.youtube.com/watch?v=mgJOn0mbS1I)
 

@@ -12,7 +12,7 @@ kindle-sync:
 ---
 # Rich Dad Poor Dad
 ## Metadata
-* Author: [Robert T. Kiyosaki](https://www.amazon.comundefined)
+* Author: [[Robert T. Kiyosaki]]
 * ASIN: B0175P82RA
 * Reference: https://www.amazon.com/dp/B0175P82RA
 * [Kindle link](kindle://book?action=open&asin=B0175P82RA)

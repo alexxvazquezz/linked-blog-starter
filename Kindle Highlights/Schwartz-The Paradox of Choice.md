@@ -10,9 +10,8 @@ kindle-sync:
 ---
 # The Paradox of Choice
 ## Metadata
-* Author: [Barry Schwartz](https://www.amazon.comundefined)
+* Author: [[Barry Schwartz]]
 * ASIN: B000TDGGVU
-* ISBN: 0060005688
 * Reference: https://www.amazon.com/dp/B000TDGGVU
 * [Kindle link](kindle://book?action=open&asin=B000TDGGVU)
 

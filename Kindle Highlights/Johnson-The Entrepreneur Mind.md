@@ -12,7 +12,7 @@ kindle-sync:
 ---
 # The Entrepreneur Mind
 ## Metadata
-* Author: [Kevin D. Johnson](https://www.amazon.comundefined)
+* Author: [[Kevin D. Johnson]]
 * ASIN: B00CHRPUWM
 * Reference: https://www.amazon.com/dp/B00CHRPUWM
 * [Kindle link](kindle://book?action=open&asin=B00CHRPUWM)

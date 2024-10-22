@@ -10,9 +10,8 @@ kindle-sync:
 ---
 # Crime and Punishment
 ## Metadata
-* Author: [Fyodor Dostoevsky and Michael R. Katz](https://www.amazon.comundefined)
+* Author: [[Fyodor Dostoevsky and Michael R. Katz]]
 * ASIN: B06XNK4CSM
-* ISBN: 1631495313
 * Reference: https://www.amazon.com/dp/B06XNK4CSM
 * [Kindle link](kindle://book?action=open&asin=B06XNK4CSM)
 

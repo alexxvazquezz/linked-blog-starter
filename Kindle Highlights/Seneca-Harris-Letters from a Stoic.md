@@ -12,9 +12,8 @@ kindle-sync:
 ---
 # Letters from a Stoic
 ## Metadata
-* Author: [Lucius Seneca and James Harris](https://www.amazon.comundefined)
+* Author: [[Lucius Seneca and James Harris]]
 * ASIN: B07147RGGW
-* ISBN: B09GZ7VD9H
 * Reference: https://www.amazon.com/dp/B07147RGGW
 * [Kindle link](kindle://book?action=open&asin=B07147RGGW)
 

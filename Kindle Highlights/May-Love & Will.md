@@ -10,7 +10,7 @@ kindle-sync:
 ---
 # Love & Will
 ## Metadata
-* Author: [Rollo May](https://www.amazon.comundefined)
+* Author: [[Rollo May]]
 * ASIN: B004RI209A
 * Reference: https://www.amazon.com/dp/B004RI209A
 * [Kindle link](kindle://book?action=open&asin=B004RI209A)

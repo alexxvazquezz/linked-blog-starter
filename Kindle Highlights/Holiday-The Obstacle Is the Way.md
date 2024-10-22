@@ -10,9 +10,8 @@ kindle-sync:
 ---
 # The Obstacle Is the Way
 ## Metadata
-* Author: [Ryan Holiday](https://www.amazon.comundefined)
+* Author: [[Ryan Holiday]]
 * ASIN: B00G3L1B8K
-* ISBN: 1781251495
 * Reference: https://www.amazon.com/dp/B00G3L1B8K
 * [Kindle link](kindle://book?action=open&asin=B00G3L1B8K)
 

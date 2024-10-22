@@ -12,7 +12,7 @@ kindle-sync:
 ---
 # I Will Teach You to Be Rich
 ## Metadata
-* Author: [Ramit Sethi](https://www.amazon.comundefined)
+* Author: [[Ramit Sethi]]
 * ASIN: B07GNXPP4P
 * Reference: https://www.amazon.com/dp/B07GNXPP4P
 * [Kindle link](kindle://book?action=open&asin=B07GNXPP4P)

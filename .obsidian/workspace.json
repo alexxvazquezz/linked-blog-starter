@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "efbd73c249273a61",
+        "id": "ba02a72a2cd97709",
         "type": "tabs",
         "children": [
           {
-            "id": "b6caaa4e4df8a0ff",
+            "id": "fbbae375e5b3d150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-20.md",
+                "file": "Templates/content-note-template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-20"
+              "title": "content-note-template"
+            }
+          },
+          {
+            "id": "608abf9708fe3484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FleetingNotes/Woman Can't Accept They are Privileged.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Woman Can't Accept They are Privileged"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[title:F]",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +79,7 @@
             }
           },
           {
-            "id": "df12f46191541312",
+            "id": "ea53ff3d50a427e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,8 +90,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FleetingNotes/Feminist Who Can't Accept She's PRIVILEGED!.md",
+                "file": "FleetingNotes/Woman Can't Accept They are Privileged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Feminist Who Can't Accept She's PRIVILEGED!"
+              "title": "Backlinks for Woman Can't Accept They are Privileged"
             }
           },
           {
@@ -114,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FleetingNotes/Feminist Who Can't Accept She's PRIVILEGED!.md",
+                "file": "FleetingNotes/Woman Can't Accept They are Privileged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Feminist Who Can't Accept She's PRIVILEGED!"
+              "title": "Outgoing links from Woman Can't Accept They are Privileged"
             }
           },
           {
@@ -141,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FleetingNotes/Dogs.md"
+                "file": "FleetingNotes/Woman Can't Accept They are Privileged.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dogs"
+              "title": "Outline of Woman Can't Accept They are Privileged"
             }
           },
           {
@@ -186,37 +201,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6caaa4e4df8a0ff",
+  "active": "87a51a68d6a2c356",
   "lastOpenFiles": [
-    "2024-10-21.md",
-    "2024-10-20.md",
-    "FleetingNotes/Job hunting .md",
-    "FleetingNotes/Smart Notes - Atomic Ideeas.md",
-    "FleetingNotes/Successful Organization.md",
-    "FleetingNotes/A Woman’s Guide to REAL Masculinity.md",
-    "FleetingNotes/Woman Can't Accept They are Privileged.md",
-    "FleetingNotes/ec38f7d4-e15d-4515-a791-adff4b194d55.md",
-    "FleetingNotes/e650f859-0f6e-4267-9569-56276aebd074.md",
     "FleetingNotes/Woman divorce and separation.md",
-    "FleetingNotes/Inspiration motivation .md",
-    "References/Andrew Wilson.md",
-    "FleetingNotes/2866a939-af12-442c-8306-aa2274cd508c.md",
-    "().md",
-    "FleetingNotes/Power.md",
+    "Jordan Peterson.md",
+    "FleetingNotes/ec38f7d4-e15d-4515-a791-adff4b194d55.md",
+    "FleetingNotes/debb8390-840d-4b1c-a394-acde62d149c5.md",
+    "ContentNotes/Untitled.md",
+    "ContentNotes/Example Youtube channel.md",
+    "ContentNotes/Example Podcast.md",
+    "ContentNotes/Example Book.md",
+    "Templates/content-note-template.md",
+    "FleetingNotes/Woman Can't Accept They are Privileged.md",
+    "FleetingNotes/Successful Organization.md",
+    "FleetingNotes/Smart Notes - Atomic Ideeas.md",
+    "2024-10-20.md",
+    "2024-10-21.md",
     "2024-10-19.md",
+    "FleetingNotes/Job hunting .md",
+    "Templates/daily-note-template.md",
+    "Kindle Highlights/Sethi-I Will Teach You to Be Rich.md",
+    "Kindle Highlights/Schwartz-The Paradox of Choice.md",
+    "Kindle Highlights/Schwartz-Diets Dont Work.md",
+    "Kindle Highlights/Ornstein-Ehrlich-New World New Mind.md",
+    "Kindle Highlights/Housel-The Psychology of Money.md",
+    "FleetingNotes/Inspiration motivation .md",
+    "FleetingNotes/A Woman’s Guide to REAL Masculinity.md",
+    "Kindle Highlights/Seneca-Harris-Letters from a Stoic.md",
+    "Kindle Highlights/Sabatier-Robin-Financial Freedom.md",
+    "ContentNotes",
     "References",
-    "FleetingNotes/808b7822-8e8c-41d9-ba63-584d5393b6db.md",
-    "FleetingNotes/Republican.md",
-    "FleetingNotes/2d229b70-bff1-4f51-b085-c3f332e3901f.md",
-    "FleetingNotes/df32ef52-b77e-449b-b89f-69f55663d65e.md",
-    "FleetingNotes/d5820094-f5c6-4da7-bd12-c55c61518c5f.md",
-    "FleetingNotes/9e3d0eaa-3c7b-4325-9269-6f9dc39f6926.md",
-    "FleetingNotes/93cc31cb-5437-4fcc-b86d-a6704ae84900.md",
-    "FleetingNotes/98cef667-0a3f-4a91-99a2-afd5df5f9b97.md",
-    "FleetingNotes/16c6771c-3558-408c-aa4a-0b407a2eb515.md",
-    "FleetingNotes/31071458-403b-4d44-86de-312443019cf2.md",
     "Clippings",
-    "Untitled",
     "Q/E",
     "Q",
     "remote-blog/tsconfig.json",

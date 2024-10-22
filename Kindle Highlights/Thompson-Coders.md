@@ -10,9 +10,8 @@ kindle-sync:
 ---
 # Coders
 ## Metadata
-* Author: [Clive Thompson](https://www.amazon.comundefined)
+* Author: [[Clive Thompson]]
 * ASIN: B07DBRNN1Z
-* ISBN: 0735220565
 * Reference: https://www.amazon.com/dp/B07DBRNN1Z
 * [Kindle link](kindle://book?action=open&asin=B07DBRNN1Z)
 

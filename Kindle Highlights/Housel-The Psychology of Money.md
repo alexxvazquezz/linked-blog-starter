@@ -10,14 +10,15 @@ kindle-sync:
 ---
 # The Psychology of Money
 ## Metadata
-* Author: [Morgan Housel](https://www.amazon.comundefined)
+* Author: [[Morgan Housel]]
 * ASIN: B084HJSJJ2
 * Reference: https://www.amazon.com/dp/B084HJSJJ2
 * [Kindle link](kindle://book?action=open&asin=B084HJSJJ2)
 
 ## Highlights
 Nassim Taleb writes in his book Fooled By Randomness: — location: [1310](kindle://book?action=open&asin=B084HJSJJ2&location=1310) ^ref-26322
-#booksToRead
+
+Book read
 
 ---
 book, The Intelligent Investor, — location: [1350](kindle://book?action=open&asin=B084HJSJJ2&location=1350) ^ref-62664

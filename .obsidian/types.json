@@ -6,6 +6,9 @@
     "id": "text",
     "Feed nt dig": "checkbox",
     "Books": "multitext",
-    "Podcasters": "multitext"
+    "Podcasters": "multitext",
+    "title": "text",
+    "created_date": "date",
+    "authors": "multitext"
   }
 }
