@@ -1,9 +1,9 @@
 {
   "amazonRegion": "global",
   "highlightsFolder": "Kindle Highlights",
-  "lastSyncMode": "amazon",
+  "lastSyncMode": "my-clippings",
   "isLoggedIn": true,
   "syncOnBoot": false,
   "downloadBookMetadata": false,
-  "lastSyncDate": "2024-10-22T04:44:54.043Z"
+  "lastSyncDate": "2024-10-24T19:04:00.469Z"
 }

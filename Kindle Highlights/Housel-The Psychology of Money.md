@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Psychology of Money: Timeless lessons on wealth, greed, and happiness'
   author: Morgan Housel
   asin: B084HJSJJ2
-  lastAnnotatedDate: '2023-12-26'
+  lastAnnotatedDate: '2024-10-24'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71YIYCVkK+L._SY160.jpg'
-  highlightsCount: 4
+  highlightsCount: 3
 ---
 # The Psychology of Money
 ## Metadata
@@ -18,21 +18,16 @@ kindle-sync:
 ## Highlights
 Nassim Taleb writes in his book Fooled By Randomness: — location: [1310](kindle://book?action=open&asin=B084HJSJJ2&location=1310) ^ref-26322
 
-Book read
+#bookToRead
 
 ---
 book, The Intelligent Investor, — location: [1350](kindle://book?action=open&asin=B084HJSJJ2&location=1350) ^ref-62664
 
-Book read
+#bookToRead
 
 ---
 Hans Rosling wrote in his book Factfulness. — location: [1844](kindle://book?action=open&asin=B084HJSJJ2&location=1844) ^ref-1595
 
-Book
-
----
-But as B. H. Liddell Hart writes in the book Why Don’t We Learn From History?: — location: [2061](kindle://book?action=open&asin=B084HJSJJ2&location=2061) ^ref-45665
-
-Book
+#bookToRead
 
 ---

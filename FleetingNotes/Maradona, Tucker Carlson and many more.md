@@ -30,3 +30,7 @@ Donald Trump is victory.
 Ellon Musk hero, single handle saved the 1st ammenment of the united stated of america
 
 **The First Amendment** provides that Congress make no law respecting an establishment of religion or prohibiting its free exercise. It protects freedom of speech, the press, assembly, and the right to petition the Government for a redress of grievances.
+
+THERE HAS TO BE A DAY WHEN DAD COMES HOME AND HE IS PISSED>>>>> 
+
+Where you find weak men you find unhappy women. (democrat party)

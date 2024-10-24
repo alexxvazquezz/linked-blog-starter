@@ -17,10 +17,6 @@ tags:
 ## Conclusion
 - {{What is the conclusion or key takeaway from the content?}} 
 
-## Key Ideas 
-- {{idea1}} 
-- {{idea2}} 
-
 ## Quotes/Key Points 
 - "{{quote1 or key point}}" (if applicable) 
 

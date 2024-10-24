@@ -9,6 +9,7 @@
     "Podcasters": "multitext",
     "title": "text",
     "created_date": "date",
-    "authors": "multitext"
+    "authors": "multitext",
+    "created": "date"
   }
 }

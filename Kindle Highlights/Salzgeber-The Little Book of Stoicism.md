@@ -6,7 +6,7 @@ kindle-sync:
     and Calmness
   author: Jonas Salzgeber
   asin: B07MY2VFQD
-  lastAnnotatedDate: '2019-07-28'
+  lastAnnotatedDate: '2024-10-24'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91EoFOugeML._SY160.jpg'
   highlightsCount: 1
 ---
@@ -19,5 +19,7 @@ kindle-sync:
 
 ## Highlights
 “I make use of this opportunity, daily pleading my case at my own court. When the light has been taken away and my wife has fallen silent, aware as she is of my habit, I examine my entire day, going through what I have done and said. I conceal nothing from myself, I pass nothing by. I have nothing to fear from my errors when I can say: ‘See that you do not do this anymore. For the moment, I excuse you.’” – Seneca — location: [1669](kindle://book?action=open&asin=B07MY2VFQD&location=1669) ^ref-1827
+
+#quotes
 
 ---
