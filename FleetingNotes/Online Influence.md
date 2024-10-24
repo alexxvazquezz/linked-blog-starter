@@ -9,6 +9,6 @@ source_title: ""
 source_description: ""
 source_image_url: ""
 created_date: "2024-10-20"
-modified_date: "2024-10-21"
+modified_date: "2024-10-24"
 ---
-Imposter syndrome?
+- [ ] what is immposter syndrome?  
