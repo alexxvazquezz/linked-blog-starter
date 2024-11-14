@@ -33,4 +33,6 @@ Ellon Musk hero, single handle saved the 1st ammenment of the united stated of a
 
 THERE HAS TO BE A DAY WHEN DAD COMES HOME AND HE IS PISSED>>>>> 
 
-Where you find weak men you find unhappy women. (democrat party)
+Where you find weak men you find unhappy women. (democrat party)\
+
+Don't tretch on me

@@ -2,7 +2,7 @@
 title: 12 rules of life
 authors:
   - Jordan Peterson
-source: Book
+source: 
 source_description: 
 link: 
 created_date: 2024-10-22
