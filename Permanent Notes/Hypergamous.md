@@ -1,0 +1,1 @@
+Hyperganasume. When women relate to men that are to the same level or higher in there socail economic level. 

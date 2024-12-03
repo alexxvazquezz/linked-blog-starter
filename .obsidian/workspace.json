@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "8f1fc71ac836c422",
+        "id": "e54171b86870fc1f",
         "type": "tabs",
         "children": [
           {
-            "id": "763b18cfa27157f9",
+            "id": "d465ae3a6d4b5cad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-14.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-14"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "f76719163fef2596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-12-03.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-03"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,7 +61,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -63,7 +79,7 @@
             }
           },
           {
-            "id": "10f2c40bd9710d3c",
+            "id": "6947c077a2ba172b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-11-14.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-14"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -114,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-11-14.md",
+                "file": "2024-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-14"
+              "title": "Outgoing links from 2024-12-03"
             }
           },
           {
@@ -141,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-14.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-14"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -172,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,33 +204,41 @@
   },
   "active": "1edf37cbfaa6e7f1",
   "lastOpenFiles": [
-    "ContentNotes/Data sets.md",
-    "2024-11-14.md",
+    "Ecommerce/Ecommerce Branding.md",
+    "Ecommerce/Ecommerce.md",
+    "Ecommerce",
+    "Home.md",
+    "2024-12-03.md",
+    "Permanent Notes/Relationships Degeneration.md",
+    "Permanent Notes/Hierarchy Chimps.md",
+    "ContentNotes/Arm Yourself.md",
+    "Permanent Notes/Hypergamous.md",
+    "Permanent Notes/Marxist Hierarchy.md",
+    "ContentNotes/AI Agents.md",
     "Permanent Notes/Virtual Containers.md",
+    "Permanent Notes/The Castle and Dragon Fight - Personal Growth.md",
+    "Permanent Notes/Questions to make.md",
+    "Permanent Notes/Potential Inside.md",
+    "ContentNotes/Define What Makes a Man, Productive Generosity.md",
+    "2024-12-02.md",
+    "ContentNotes/What Makes a Man?.md",
     "Permanent Notes/Labeling in Computer Vision.md",
     "Permanent Notes/PM<2> Resistance and Flexibility.md",
-    "ContentNotes/Headers NA Engines.md",
-    "annotation.md",
-    "ContentNotes/Models - Train to help detect objects.md",
-    "ContentNotes/FFMEG Video spliting for labeling and annotation.md",
-    "ContentNotes/Terminal - Download Youtube videos - best quality.md",
-    "ContentNotes/THe use of args in command line.md",
-    "ContentNotes/Troubleshooting.md",
-    "ContentNotes/Windows ISO.md",
-    "ContentNotes/Virtual Box on Linux.md",
-    "ContentNotes/Example Youtube channel.md",
-    "ContentNotes/Example Podcast.md",
-    "ContentNotes/Effort and Resistance Against Productivity.md",
-    "ContentNotes/Docker Containers.md",
-    "Permanent Notes/PM<1> Effortless Work and Productivity.md",
     "Permanent Notes/PM<3>  Writing as a Form of Thinking.md",
-    "Home.md",
-    "2024-11-13.md",
-    "ContentNotes/NA Engines.md",
-    "ContentNotes/Balanced Data Sets.md",
-    "ContentNotes/Computer Vision.md",
-    "ContentNotes/The Compass - North, East, South and West Questions.md",
-    "Untitled",
+    "annotation.md",
+    "2024-11-23.md",
+    "2024-11-27.md",
+    "2024-11-26.md",
+    "2024-11-25.md",
+    "Screenshot From 2024-11-21 16-39-14 1.png",
+    "Screenshot From 2024-11-21 19-09-25.png",
+    "Screenshot From 2024-11-21 18-39-59 1.png",
+    "Screenshot From 2024-11-21 18-39-59.png",
+    "Screenshot From 2024-11-21 18-39-43.png",
+    "Screenshot From 2024-11-21 18-36-12.png",
+    "Screenshot From 2024-11-21 17-43-17.png",
+    "Screenshot From 2024-11-21 17-35-23.png",
+    "Screenshot From 2024-11-21 16-39-14.png",
     "Code & Terminal",
     "Permanent Notes",
     "ContentNotes",
@@ -225,15 +249,6 @@
     "remote-blog/tsconfig.json",
     "remote-blog/tailwind.config.js",
     "remote-blog/public/assets/blog/preview/cover.jpg",
-    "remote-blog/public/assets/blog/hello-world/cover.jpg",
-    "remote-blog/public/assets/blog/dynamic-routing/cover.jpg",
-    "remote-blog/public/assets/blog/authors/tim.jpeg",
-    "remote-blog/public/assets/blog/authors/joe.jpeg",
-    "remote-blog/public/assets/blog/authors/jj.jpeg",
-    "remote-blog/public/favicon/safari-pinned-tab.svg",
-    "remote-blog/public/favicon/mstile-150x150.png",
-    "remote-blog/public/favicon/favicon-32x32.png",
-    "remote-blog/public/favicon/favicon-16x16.png",
     "Untitled.canvas"
   ]
 }
