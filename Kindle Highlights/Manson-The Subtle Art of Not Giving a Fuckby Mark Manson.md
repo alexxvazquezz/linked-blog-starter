@@ -3,7 +3,7 @@ kindle-sync:
   bookId: '2261'
   title: The Subtle Art of Not Giving a Fuck (Fck) by Mark Manson
   author: Mark Manson
-  highlightsCount: 6
+  highlightsCount: 16
 ---
 # The Subtle Art of Not Giving a Fuckby Mark Manson
 ## Metadata
@@ -34,5 +34,56 @@ Sufferings sparks change, it inspires us to.changd
 This constant dissatisfaction has kept our species fighting and striving, building and conquering. So no—our own pain and misery aren’t a bug of human evolution; they’re a feature. — location: [535]() ^ref-28398
 
 Argument, we work to.innovateor.survive becahse we ae are nebwr satisfied wijth whaf we hvavd
+
+---
+
+After all, the greatest truths in life are usually the most unpleasant to — location: [526]() ^ref-58172
+
+some people cant hande the truth, its to uncomfortable.
+note for lucia. I should more kind about her truths
+
+---
+being. — location: [548]() ^ref-14133
+
+So pain marks our boundaries, it teaches us our limits by force lf pain. Example putting hand on a hot stove
+
+---
+benefits — location: [557]() ^ref-40019
+
+We should not avoid lpain, but sembrace it as a teacher
+
+---
+minutes — location: [570]() ^ref-4104
+
+every problem we solve, creates another problem
+
+---
+do every Wednesday that you both won’t hate, making sure you have enough money — location: [573]() ^ref-5553
+
+Solving problems makes or keeps us happy, and every new problem we solve, new ones appear. Thus making the case that happiness an action
+
+---
+Denial. — location: [589]() ^ref-6301
+
+Some people denia their problems. They lie to themselves or ther have a victim mentality and blame others of thier shortcomins. Either way; Avoiding leads fo misery
+
+---
+Emotions are simply biological signals designed to nudge you in the direction of beneficial change. — location: [610]() ^ref-59913
+
+If you feel empfy or numb or have negative emptipns, this is a natural signal thatf is telling you that you or on thed right path. Positive emotions are a reward. Its a nudge into the right direction.
+negvative emotions are a cal to action;
+
+---
+“hedonic treadmill”: the idea that we’re always working hard to change our life situation, but we actually never feel very different. — location: [631]() ^ref-19745
+
+---
+Who you are is defined by what you’re willing to struggle for. — location: [691]() ^ref-13439
+
+The love is in the process, the stuffle. Not the result. I love to play soccer or race, i can manage all the pain
+
+---
+exceptional and massively successful. But it’s a generation later and the data is in: we’re not all exceptional. It turns out that merely feeling good about — location: [731]() ^ref-13564
+
+Feeling good and having high sef esteem or believing that we are already extrodinardy without having to face advisary and failure is a fiction and leeds to entitled people. We need  reason to feel good about ones self.
 
 ---
