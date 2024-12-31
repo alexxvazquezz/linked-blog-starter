@@ -34,7 +34,7 @@ El numero maximo lo obtengo de 2 formas, la primera es usando la propiedad `tota
 D. Propiedades Planeta con ID 27
 End point: `/api/planets/27
 `
-En este caso, se selecciono un ide de planeta para obtener sus propiedades. 
+En este caso, se selecciono un id de planeta para obtener sus propiedades. 
 ```json
 "properties": {
 	"diameter": "14050",
@@ -114,4 +114,25 @@ Observaciones:
 * La lista de films y pilotos vuelve vacia en algunas ocaciones. Para crear tests hay que tomarlo en cuenta. Tambien hay que hacer tests que validan los detalles de los datos dentro de las URLS's
 * El campo consumable tiene un valor de 'none'. 
 * El campo cost_in_credits llama la atencion por vovler un 'unknown', hay que tomar en cuenta esto para crear tests. 
+
+Response Body Species:
+![[Screenshot From 2024-12-31 12-14-10.png]]
+Response Body Vehicle:
+![[Screenshot From 2024-12-31 12-14-26.png]]
+
+f. ID del Film
+End point: `/api/films/`
+Parameters: `/api/films/?title={title}`
+
+Para obtener el id del film con el titulo, se utilizo los parametros para la busqueda segun el su nombre de titulo. El parametro es `?title=The Phantom Menace`. 
+Para obtener el ID, se escribio un script para que se visualice en la consola:
+```
+const jsonData = pm.response.json();
+
+const filmId = jsonData.result[0].properties.episode_id;
+
+console.log('Film id: ', filmId);
+```
+![[Screenshot From 2024-12-31 12-21-37.png]]
+
 
