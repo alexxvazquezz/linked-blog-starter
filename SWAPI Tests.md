@@ -32,8 +32,9 @@ El numero maximo lo obtengo de 2 formas, la primera es usando la propiedad `tota
 
 
 D. Propiedades Planeta con ID 27
-End point: `/api/planets/27`
-
+End point: `/api/planets/27
+`
+En este caso, se selecciono un ide de planeta para obtener sus propiedades. 
 ```json
 "properties": {
 	"diameter": "14050",
@@ -50,7 +51,7 @@ End point: `/api/planets/27`
 	"url": "https://www.swapi.tech/api/planets/27"
 }
 ```
-
+![[Screenshot From 2024-12-31 12-09-11.png]]
 E. Schema de Recursos
 Endpoint Species: /api/species/id
 Endpoint Vehicles: /api/vehicles/id
