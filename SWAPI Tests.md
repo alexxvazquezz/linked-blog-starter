@@ -157,3 +157,32 @@ let wookieeName = wookieeBody.akrcooakworcaoahwoc.whrascwo;
 console.log("Wookie name:", wookieeName);
 ```
 ![[Screenshot From 2024-12-31 12-32-04.png]]
+
+## Preguntas Adicionales
+1. Para automatizar el api, aprovecharia el runner de postman. Ya que se esta utilizando esta herramienta. Pero, prefereria centralizar todo, los tests de UI y API, usando cypress. 
+2. Pruebas:
+	Data:
+		a. Validacion de status codes: 200, 201, etc
+		b. Verificar que cada body tiene la estructura de datos y campos correctos.
+		c. Pruebas con parametros opcionales, como las de busqueda
+		d. Validar que la dara es del typo correcto, `string`, `array`, `number`.
+		e. Verificar los recursos adicionales, URL's.
+
+	 Performance:
+	  a. Medir el tiempo de respuesta
+	  b. Medir el api con datasets grandes, por ejemplo el maximo pagination. 
+	  c. Testear llamadas concurrentes para validar si puede manejar multiples usuarios
+	  d. Validar el rate limiter. 
+
+	 Edge Cases:
+	  a. Parameters faltantes
+	  b. Types de datos incorrectos en los parametros
+	  c. Valore de parametros fuera de rango. -1, 10000. 
+	  d. Hacer un request con un recurso que no existe. Un id de personaje que  no existe. 
+	  e. Test con parametros duplicados
+
+   Error Handling:
+     a. 404 not found
+     b. 400 bad request
+     c. 401 unauthorized
+     d. 500 internal error
