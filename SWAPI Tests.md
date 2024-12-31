@@ -135,4 +135,25 @@ console.log('Film id: ', filmId);
 ```
 ![[Screenshot From 2024-12-31 12-21-37.png]]
 
+g. Consulta en Formato Wookiee
+En este escenario el encoding vuelve en un string del mismo json object. Para poder visualizar el nombre se tuvo que parsar a json dos veces. Abajo esta el script:
+```
+let body = pm.response.text();
 
+  
+
+let parsedJson = JSON.parse(body);
+
+  
+
+let wookieeBody = JSON.parse(parsedJson);
+```
+Y para visualizar el nombre en la cosola, se agrego estas dos lineas:
+```
+let wookieeName = wookieeBody.akrcooakworcaoahwoc.whrascwo;
+
+  
+
+console.log("Wookie name:", wookieeName);
+```
+![[Screenshot From 2024-12-31 12-32-04.png]]
