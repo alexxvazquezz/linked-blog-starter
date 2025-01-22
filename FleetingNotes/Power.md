@@ -9,6 +9,6 @@ source_title: ""
 source_description: ""
 source_image_url: ""
 created_date: "2024-10-20"
-modified_date: "2024-10-20"
+modified_date: "2025-01-21"
 ---
-- [ ] research negotiation 
+- [x] research negotiation

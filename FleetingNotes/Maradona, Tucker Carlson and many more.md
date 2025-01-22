@@ -9,9 +9,9 @@ source_title: ""
 source_description: ""
 source_image_url: ""
 created_date: "2024-10-23"
-modified_date: "2024-10-24"
+modified_date: "2025-01-21"
 ---
-- [ ] hay que empezar a comprar off
+- [x] hay que empezar a comprar off
 - [ ] Maradona hereos and humans
 - [ ] Learn more about Tucker Carlson
 
