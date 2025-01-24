@@ -12,9 +12,9 @@ Use this note as a navigational hub for your Permanent Notes. Each section repre
 - [[PM<1> Effortless Work and Productivity]]  
 - [[PM<2> Resistance and Flexibility]]  
 - [[PM<3>  Writing as a Form of Thinking]]
+ 
 
-
-Containerization 
+**[[Communication]]**
 
 
 ---
