@@ -11,10 +11,34 @@
             "id": "d7cbd6e56c63a45e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ContentNotes/Body Language Content.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Body Language Content"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6b56d836402c04e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dab343fb81da98f7",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "FleetingNotes/2d1561a0-24d5-417e-944e-30527dbd3c87.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (2d1561a0-24d5-417e-944e-30527dbd3c87)"
             }
           }
         ]
@@ -196,35 +220,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de2252456640b90b",
+  "active": "dab343fb81da98f7",
   "lastOpenFiles": [
-    "Home.md",
-    "Screen Recording 2025-01-23 at 17.45.07.mov",
-    "Untitled.md",
-    "Holafly/Way of Work.md",
-    "SONGS FOR VIDEO CONTENT.md",
-    "Holafly/Important Links.md",
-    "2025-01-23.md",
-    "FleetingNotes/Dog Training.md",
-    "FleetingNotes/2d1561a0-24d5-417e-944e-30527dbd3c87.md",
-    "FleetingNotes/Maradona .md",
-    "Permanent Notes/Communication.md",
-    "FleetingNotes/It smells in here.md",
-    "Permanent Notes/Marxist Hierarchy.md",
-    "Permanent Notes/Making the point with hands.md",
-    "Permanent Notes/How to be listened to?.md",
-    "Permanent Notes/Appear less aggressive.md",
-    "Communicateion.md",
-    "Kindle Highlights/Greene-Mastery.md",
-    "Permanent Notes/Body Language.md",
+    "Permanent Notes/Speak Convincingly.md",
+    "Permanent Notes/Looking into Eyes when Speaking.md",
+    "Permanent Notes/Changing Body Language.md",
+    "Permanent Notes/Smiling when Communicating.md",
+    "Permanent Notes/Am and UM's.md",
+    "Permanent Notes/Using Body Space.md",
     "ContentNotes/Body Language Content.md",
-    "Permanent Notes/Speaking Clearly to be Heard.md",
+    "ContentNotes/Windows ISO.md",
+    "ContentNotes/What Makes a Man?.md",
+    "ContentNotes/Virtual Box on Linux.md",
+    "ContentNotes/Troubleshooting.md",
+    "ContentNotes/THe use of args in command line.md",
+    "ContentNotes/The Compass - North, East, South and West Questions.md",
+    "ContentNotes/NA Engines.md",
+    "ContentNotes/Terminal - Download Youtube videos - best quality.md",
+    "ContentNotes/Define What Makes a Man, Productive Generosity.md",
+    "ContentNotes/Docker Containers.md",
+    "ContentNotes/Arm Yourself.md",
+    "FleetingNotes/Maradona, Tucker Carlson and many more.md",
+    "FleetingNotes/Marketing New.md",
+    "FleetingNotes/More research .md",
+    "FleetingNotes/new AI tools.md",
+    "FleetingNotes/Online Influence.md",
+    "FleetingNotes/Rendiring HTML Body in playwright.md",
+    "FleetingNotes/Republican.md",
+    "FleetingNotes/Ruggeri.md",
+    "Screen Recording 2025-01-23 at 17.45.07.mov",
     "Untitled",
-    "Deudas.md",
-    "AI Reinforcement Learning -1 & +1. Digital rewards.md",
-    "Permanent Notes/Hierarchy Chimps.md",
-    "Permanent Notes/Hypergamous.md",
-    "Holafly/Test Plans.md",
     "DailyNotes",
     "Holafly",
     "Screenshot From 2024-12-31 11-55-15.png",
