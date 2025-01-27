@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "376fddbaf0536a33",
+        "id": "e5ef5752e3ab7460",
         "type": "tabs",
         "children": [
           {
-            "id": "d7cbd6e56c63a45e",
+            "id": "4932e4a5d1b689d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ContentNotes/Body Language Content.md",
+                "file": "Deudas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Body Language Content"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6b56d836402c04e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dab343fb81da98f7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "FleetingNotes/2d1561a0-24d5-417e-944e-30527dbd3c87.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (2d1561a0-24d5-417e-944e-30527dbd3c87)"
+              "title": "Deudas"
             }
           }
         ]
@@ -220,15 +201,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dab343fb81da98f7",
+  "active": "4932e4a5d1b689d7",
   "lastOpenFiles": [
+    "2025-01-25.md",
+    "Deudas.md",
+    "2025-01-27.md",
+    "Power Games.md",
+    "Permanent Notes/Relationships Degeneration.md",
+    "Permanent Notes/Speaking Clearly to be Heard.md",
     "Permanent Notes/Speak Convincingly.md",
-    "Permanent Notes/Looking into Eyes when Speaking.md",
-    "Permanent Notes/Changing Body Language.md",
     "Permanent Notes/Smiling when Communicating.md",
+    "Permanent Notes/PM<3>  Writing as a Form of Thinking.md",
+    "Permanent Notes/Potential Inside.md",
+    "Permanent Notes/Looking into Eyes when Speaking.md",
+    "Permanent Notes/Making the point with hands.md",
+    "Permanent Notes/Appear less aggressive.md",
+    "Permanent Notes/Body Language.md",
+    "Permanent Notes/Changing Body Language.md",
+    "ContentNotes/Body Language Content.md",
     "Permanent Notes/Am and UM's.md",
     "Permanent Notes/Using Body Space.md",
-    "ContentNotes/Body Language Content.md",
     "ContentNotes/Windows ISO.md",
     "ContentNotes/What Makes a Man?.md",
     "ContentNotes/Virtual Box on Linux.md",
@@ -237,17 +229,6 @@
     "ContentNotes/The Compass - North, East, South and West Questions.md",
     "ContentNotes/NA Engines.md",
     "ContentNotes/Terminal - Download Youtube videos - best quality.md",
-    "ContentNotes/Define What Makes a Man, Productive Generosity.md",
-    "ContentNotes/Docker Containers.md",
-    "ContentNotes/Arm Yourself.md",
-    "FleetingNotes/Maradona, Tucker Carlson and many more.md",
-    "FleetingNotes/Marketing New.md",
-    "FleetingNotes/More research .md",
-    "FleetingNotes/new AI tools.md",
-    "FleetingNotes/Online Influence.md",
-    "FleetingNotes/Rendiring HTML Body in playwright.md",
-    "FleetingNotes/Republican.md",
-    "FleetingNotes/Ruggeri.md",
     "Screen Recording 2025-01-23 at 17.45.07.mov",
     "Untitled",
     "DailyNotes",
