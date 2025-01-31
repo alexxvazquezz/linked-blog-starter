@@ -8,3 +8,5 @@ Video:
 ![[Screen Recording 2025-01-23 at 17.45.07.mov]]
 
 QA Dashboard: https://holaflyers.atlassian.net/jira/dashboards/10019
+
+Demo user: demo@holafly.com / 12345

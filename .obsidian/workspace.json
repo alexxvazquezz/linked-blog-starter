@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a166a72cd97f67",
+        "id": "d22d119d1a2e4141",
         "type": "tabs",
         "children": [
           {
-            "id": "3704d8eca3266549",
+            "id": "99a718ecce60e233",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holafly/Important Links.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Important Links"
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +78,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -121,20 +117,6 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Untitled"
-            }
-          },
-          {
-            "id": "d462fac2200feda5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2024-12-03.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2024-12-03"
             }
           },
           {
@@ -183,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,13 +183,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de2252456640b90b",
+  "active": "99a718ecce60e233",
   "lastOpenFiles": [
+    "Holafly/Important Links.md",
+    "Permanent Notes/Changing Body Language.md",
+    "Holafly/Configuracion y Ejecucion en CI-CD.md",
+    "Permanent Notes/Potential Inside.md",
+    "Permanent Notes/Selfish vs Selfishness woman.md",
+    "Permanent Notes/Not Responsible for others feelings.md",
+    "Permanent Notes/Pursuit of happiness.md",
+    "AI Reinforcement Learning -1 & +1. Digital rewards.md",
+    "Communicateion.md",
+    "2025-01-31.md",
     "2025-01-30.md",
     "Testing.md",
     "Screen Recording 2025-01-23 at 17.45.07.mov",
-    "Holafly/Important Links.md",
-    "Holafly/Configuracion y Ejecucion en CI-CD.md",
     "Holafly/Plan de Pruebas.md",
     "Holafly/Presentation 5 minutes.md",
     "Holafly/QA Sync.md",
@@ -222,14 +212,6 @@
     "SONGS FOR VIDEO CONTENT.md",
     "Templates/content-note-template.md",
     "Templates/permanent-note-template.md",
-    "2025-01-25.md",
-    "2025-01-27.md",
-    "Power Games.md",
-    "Permanent Notes/Relationships Degeneration.md",
-    "Permanent Notes/Speaking Clearly to be Heard.md",
-    "Permanent Notes/Speak Convincingly.md",
-    "Permanent Notes/Smiling when Communicating.md",
-    "Permanent Notes/PM<3>  Writing as a Form of Thinking.md",
     "Untitled",
     "DailyNotes",
     "Holafly",
