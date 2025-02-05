@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb6fa1aca927610",
+        "id": "276c2f8363bb6d10",
         "type": "tabs",
         "children": [
           {
-            "id": "71fe7134ed68fd7e",
+            "id": "51d9754fc2fabce2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Dog - Set up to win <PN>.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dog - Set up to win <PN>"
             }
           }
         ]
@@ -90,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 332.5
   },
   "right": {
     "id": "4b9e57779318ada2",
@@ -170,11 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Permanent Notes/Dog - Set up to win <PN>.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Dog - Set up to win <PN>"
             }
           }
         ],
@@ -196,8 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71fe7134ed68fd7e",
+  "active": "51d9754fc2fabce2",
   "lastOpenFiles": [
+    "Permanent Notes/How to be listened to?.md",
+    "Permanent Notes/Communication - Body Language <PN>.md",
+    "Permanent Notes/Communication - Am and UM's <PN>.md",
+    "ContentNotes/Communication.md",
+    "Permanent Notes/Communication - Changing Body Language <PN>.md",
     "ContentNotes/Marxism.md",
     "Permanent Notes/Marxism - Conflict Creation <PN>.md",
     "Permanent Notes/Marxist Hierarchy.md",
@@ -205,14 +216,11 @@
     "ContentNotes/Hierarchy.md",
     "Permanent Notes/Hierarchy - Chimps <PN>.md",
     "Permanent Notes/Example.md",
-    "ContentNotes/Communication.md",
     "Permanent Notes/Communication - Appear less aggressive <PN>.md",
     "Permanent Notes/Hypergamous.md",
     "Permanent Notes/Pursuit of happiness.md",
     "Permanent Notes/Productivity - Effortless Work <PN>.md",
     "Permanent Notes/PM<2> Resistance and Flexibility.md",
-    "Permanent Notes/Am and UM's.md",
-    "Permanent Notes/How to be listened to?.md",
     "Permanent Notes/Dog - Set up to win <PN>.md",
     "ContentNotes/Dog Training.md",
     "FleetingNotes/Development - APis.md",
@@ -222,8 +230,6 @@
     "FleetingNotes/Chorros .md",
     "Holafly/Holafly Work.md",
     "Holafly/Important Links.md",
-    "Permanent Notes/Changing Body Language.md",
-    "Holafly/Configuracion y Ejecucion en CI-CD.md",
     "Screen Recording 2025-01-23 at 17.45.07.mov",
     "Untitled",
     "DailyNotes",

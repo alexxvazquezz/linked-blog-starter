@@ -12,7 +12,7 @@ It is the action of sending information to one individual to another.
 
 ### **Linked Notes:**
 
-- [[Body Language]]
+- [[Communication - Body Language <PN>]]
 - [[]]
 
 ---
