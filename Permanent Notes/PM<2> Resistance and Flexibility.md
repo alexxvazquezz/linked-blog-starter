@@ -13,7 +13,7 @@ Resistance often impedes productivity. Adaptive, flexible systems minimize resis
 
 ### **Linked Notes:**
 
-- [[PM<1> Effortless Work and Productivity]]
+- [[Productivity - Effortless Work <PN>]]
 - [[PM<3>  Writing as a Form of Thinking]]
 
 ---

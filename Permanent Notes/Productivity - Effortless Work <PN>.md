@@ -14,6 +14,7 @@ Flexibility in the work systems allows for effortless engagement. When a workflo
 ### **Linked Notes:**
 
 - [[PM<2> Resistance and Flexibility]]
+- [[Productivity]]
 
 ---
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d22d119d1a2e4141",
+        "id": "eeb6fa1aca927610",
         "type": "tabs",
         "children": [
           {
-            "id": "99a718ecce60e233",
+            "id": "71fe7134ed68fd7e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,6 +163,19 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "546264e5e77d874d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ],
         "currentTab": 3
@@ -183,35 +196,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99a718ecce60e233",
+  "active": "71fe7134ed68fd7e",
   "lastOpenFiles": [
+    "ContentNotes/Marxism.md",
+    "Permanent Notes/Marxism - Conflict Creation <PN>.md",
+    "Permanent Notes/Marxist Hierarchy.md",
+    "2025-02-04.md",
+    "ContentNotes/Hierarchy.md",
+    "Permanent Notes/Hierarchy - Chimps <PN>.md",
+    "Permanent Notes/Example.md",
+    "ContentNotes/Communication.md",
+    "Permanent Notes/Communication - Appear less aggressive <PN>.md",
+    "Permanent Notes/Hypergamous.md",
+    "Permanent Notes/Pursuit of happiness.md",
+    "Permanent Notes/Productivity - Effortless Work <PN>.md",
+    "Permanent Notes/PM<2> Resistance and Flexibility.md",
+    "Permanent Notes/Am and UM's.md",
+    "Permanent Notes/How to be listened to?.md",
+    "Permanent Notes/Dog - Set up to win <PN>.md",
+    "ContentNotes/Dog Training.md",
+    "FleetingNotes/Development - APis.md",
+    "FleetingNotes/d70e1dea-3472-4d68-9861-dc29e39bcd35.md",
+    "FleetingNotes/Acceptance .md",
+    "ContentNotes/A Woman’s Guide to REAL Masculinity.md",
+    "FleetingNotes/Chorros .md",
+    "Holafly/Holafly Work.md",
     "Holafly/Important Links.md",
     "Permanent Notes/Changing Body Language.md",
     "Holafly/Configuracion y Ejecucion en CI-CD.md",
-    "Permanent Notes/Potential Inside.md",
-    "Permanent Notes/Selfish vs Selfishness woman.md",
-    "Permanent Notes/Not Responsible for others feelings.md",
-    "Permanent Notes/Pursuit of happiness.md",
-    "AI Reinforcement Learning -1 & +1. Digital rewards.md",
-    "Communicateion.md",
-    "2025-01-31.md",
-    "2025-01-30.md",
-    "Testing.md",
     "Screen Recording 2025-01-23 at 17.45.07.mov",
-    "Holafly/Plan de Pruebas.md",
-    "Holafly/Presentation 5 minutes.md",
-    "Holafly/QA Sync.md",
-    "Holafly/QA Team Project.md",
-    "Holafly/Test Plans.md",
-    "Holafly/Way of Work.md",
-    "2025-01-29.md",
-    "ContentNotes/Prompting in AI.md",
-    "Deudas.md",
-    "2025-01-28.md",
-    "Buying and Selling.md",
-    "SONGS FOR VIDEO CONTENT.md",
-    "Templates/content-note-template.md",
-    "Templates/permanent-note-template.md",
     "Untitled",
     "DailyNotes",
     "Holafly",

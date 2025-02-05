@@ -9,7 +9,7 @@ Use this note as a navigational hub for your Permanent Notes. Each section repre
 > Explore how adaptable systems enhance productivity, support creativity, and reduce resistance.
 
 **Links**:  
-- [[PM<1> Effortless Work and Productivity]]  
+- [[Productivity - Effortless Work <PN>]]  
 - [[PM<2> Resistance and Flexibility]]  
 - [[PM<3>  Writing as a Form of Thinking]]
  
