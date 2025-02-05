@@ -1,7 +1,8 @@
 ---
 title: Communication and Power
 created_date: 2025-01-22
-tags: []
+tags:
+  - Communication
 ---
 
 

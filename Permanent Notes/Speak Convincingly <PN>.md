@@ -2,6 +2,7 @@
 title: Communication and Power
 created_date: 2025-02-05
 tags:
+  - Communication
 ---
 To speak convincingly you need to speak loudly, make yourself herd, have confidence in the words you use and think
 

@@ -2,6 +2,7 @@
 title: Hierarchy Chimps
 created_date: 2024-12-03
 tags:
+  - Power
 ---
 
 
@@ -12,7 +13,7 @@ Chimps have a patriarchal structure. The male is the dominant over females. But 
 
 ### **Linked Notes:**
 
-- [[Marxism - Marxist Hierarchy <PN>]]
+- [[Marxist Hierarchy <PN>]]
 - [[Hierarchy]]
 
 ---
