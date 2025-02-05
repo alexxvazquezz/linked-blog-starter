@@ -1,5 +1,5 @@
 ---
-title: Dragons Monsters and Men
+title: Masculinity
 authors:
   - Jordan Peterson
 source: 
@@ -72,7 +72,7 @@ A lot of the potential that is inside of us, will not develop or come out if it 
 
 When you stress yourself, new genes turn on, you create new modules. Its like lifting weights. This is how you connect with the genetic historical side of you. Your ancestral father, 
 ## References 
-- [[]] 
+- [[Masculinity]] 
 - [[]] 
 
 ## Reflections 

@@ -6,6 +6,7 @@ source_description:
 link: 
 created_date: 2024-12-02
 tags:
+  - AI
 ---
 
 They are systems that use sensors to analyze their environment, process the information and  make decisions and actions based on it.
@@ -22,7 +23,7 @@ AI agents are smart and autonomous entities that can:
 
 
 ## References 
-- [[]] 
+- [[Artificial Intelligence]] 
 - [[]] 
 
 ## Reflections 

@@ -7,24 +7,8 @@ source_description:
 link: 
 created_date: 2024-12-02
 tags:
+  - Masculinity
 ---
-
-## Question 
-- Are men becoming more passive
-
-## Evidence 
-	They are bailing out of society. The drop out of highschoool. They also are bailing out of the sexual game, even from masterbation. This is a sign of the dimasculation and demoralized they are..
-
-This is a sign of the oppressing boys to men are facing. 
-
-
-All relationships degenerate into power struggles. 
-## Conclusion
-
-This desmoraliztion for males comes from this narrative that men are destroying the world. So we should not exist. If we continue to multiple, we will consume the earth. But it has been shown we have enough for what we have and a huge expanse of society. The more people we have, the richer we get. 
-
-Each child born produces 7 times more wealth then what they consume. 
-
 
 # Hierarchy
 
@@ -56,7 +40,7 @@ Adam and eve become self conscious.
 - "{{quote1 or key point}}" (if applicable) 
 
 ## References 
-- [[]] 
+- [[Masculinity]] 
 - [[]] 
 
 ## Reflections 
