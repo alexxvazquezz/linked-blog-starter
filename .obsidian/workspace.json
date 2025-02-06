@@ -4,22 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "880fddeba1a8b790",
+        "id": "d7a491aa0ff29966",
         "type": "tabs",
         "children": [
           {
-            "id": "21eca4ab4cbbfb4d",
+            "id": "df4166e09bd496d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ContentNotes/Dog Training.md",
+                "file": "ContentNotes/Money.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dog Training"
+              "title": "Money"
+            }
+          },
+          {
+            "id": "581a2ce8581aa707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taking Money as a Mindset <PN>.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Taking Money as a Mindset <PN>"
+            }
+          },
+          {
+            "id": "ca3a558a8cea4250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Money Makes us Slaves.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Money Makes us Slaves"
             }
           }
         ]
@@ -202,8 +232,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21eca4ab4cbbfb4d",
+  "active": "df4166e09bd496d0",
   "lastOpenFiles": [
+    "Permanent Notes/Money Makes us Slaves.md",
+    "Taking Money as a Mindset <PN>.md",
+    "ContentNotes/Money.md",
+    "2025-02-05.md",
+    "ContentNotes/Dog Training.md",
     "ContentNotes/Docker Containers.md",
     "ContentNotes/Define What Makes a Man, Productive Generosity.md",
     "ContentNotes/Computer Vision.md",
@@ -225,11 +260,6 @@
     "2025-01-30.md",
     "2025-01-22.md",
     "2025-01-21.md",
-    "2025-02-05.md",
-    "2025-02-04.md",
-    "2025-01-29.md",
-    "2025-01-25.md",
-    "Permanent Notes/Not Responsible for others feelings <PN>.md",
     "Screen Recording 2025-01-23 at 17.45.07.mov",
     "Untitled",
     "DailyNotes",
