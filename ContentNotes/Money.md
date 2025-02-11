@@ -15,6 +15,10 @@ You need to change the way you think about money, most of use think in terms of 
 Money can only be created by the federal reserve, and they do this in order to inslave us.
 
 It's not smart to save money, due to inflation, and money is printed everyday. Find a way to take, you cannot make or save. You can ONLY TAKE. 
+
+GET RID OF THE IDEA OF SAVING> SAVING WILL NOT MAKE YOU RICH. 
+
+Money is like water and move around. It flows. This ideas is a great way of looking at it. 
 ## References 
 - [[]] 
 - [[]] 
