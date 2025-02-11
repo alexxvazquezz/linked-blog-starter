@@ -19,6 +19,12 @@ It's not smart to save money, due to inflation, and money is printed everyday. F
 GET RID OF THE IDEA OF SAVING> SAVING WILL NOT MAKE YOU RICH. 
 
 Money is like water and move around. It flows. This ideas is a great way of looking at it. 
+
+**Ways to Make Money**
+1. [[Time for Money  <PM>]]
+2. Information for Money
+3. Trade a product or service for money
+4. Putting something to work for money
 ## References 
 - [[]] 
 - [[]] 
