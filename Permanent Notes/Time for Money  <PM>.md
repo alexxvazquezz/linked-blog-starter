@@ -14,7 +14,7 @@ Time for money is essentially trading your time for money, this is what a usual 
 
 ### **Linked Notes:**
 
-- [[Problem with trading time for Money <PM>]]
+- [[Problem with trading time for Money <PN>]]
 - [[Money]]
 - [[Money Makes us Slaves <PN>]]
 

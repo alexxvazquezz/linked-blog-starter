@@ -22,7 +22,7 @@ Money is like water and move around. It flows. This ideas is a great way of look
 
 **Ways to Make Money**
 1. [[Time for Money  <PN>]]
-2. [[Information for Money <PN>]]
+2. [[Information for Money <PM>]]
 	Your time is not linked to the information you know. If you make a video, you can sell a video about what you know, but know that information is not tied to you time. 
 	If you can get information and attention, you will be rich. There must be something you know. Monotize that...
 	Is there a theory about some kind of ripple affect with time?
@@ -31,6 +31,14 @@ Money is like water and move around. It flows. This ideas is a great way of look
 		This is what corporations and mega rich do. They will create a serivce, and hire people to work for them. Those people with exchange their time for money. 
 		The super wealthy have their monoeyh work for them, it's better since you don't have to manage people and less problems. You can invest money and get a return. But in order to do this you need to have a lot of money to live off of that money.  You should still put your money to work for you.
 Of the 4 above ways. the best way to make money today is by information. It is scalable. You can sell your information over and over again. 
+
+The correct thing to do is to do all things.. Especially if you are starting from the bottom. The end goal is to make your money work for you.. You should be trading all your time for your money. 
+
+[[Attention and Credibility <PN>]]
+
+**How do you find these cash generating methods?**
+
+
 ## References 
 - [[]] 
 - [[]] 
