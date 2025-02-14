@@ -13,43 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ContentNotes/Money.md",
+                "file": "Holafly/Standups/02-14-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Money"
-            }
-          },
-          {
-            "id": "c1118ef26997b9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holafly/Standups/02-12-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "02-12-2025"
-            }
-          },
-          {
-            "id": "d3442ad9e7b0097b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holafly/Standups/02-13-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "02-13-2025"
+              "title": "02-14-2025"
             }
           },
           {
@@ -82,8 +52,7 @@
               "title": "Information for Money <PM>"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,15 +232,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3442ad9e7b0097b",
+  "active": "db7ab561c339fd11",
   "lastOpenFiles": [
-    "Holafly/Standups/02-12-2025.md",
     "Holafly/Standups/02-13-2025.md",
-    "Holafly/Standups",
+    "Holafly/Standups/02-14-2025.md",
+    "2025-02-14.md",
     "ContentNotes/Money.md",
-    "Daily Work.md",
     "Attention and Credibility <PN>.md",
+    "Permanent Notes/Not Responsible for others feelings <PN>.md",
+    "Permanent Notes/PM<2> Resistance and Flexibility.md",
     "Permanent Notes/Information for Money <PM>.md",
+    "2025-02-13.md",
+    "Holafly/Standups/02-12-2025.md",
+    "Holafly/Standups",
+    "Daily Work.md",
     "Permanent Notes/Problem with trading time for Money <PN>.md",
     "Permanent Notes/Trade a product or service for money <PN>.md",
     "Information for Money <PN>.md",
@@ -289,14 +263,9 @@
     "Permanent Notes/Taking Money as a Mindset <PN>.md",
     "Screen Recording 2025-01-23 at 17.45.07.mov",
     "Screenshot From 2025-02-11 13-36-37.png",
-    "Destinations.md",
     "Screencast From 2025-02-11 13-39-25.mp4",
     "Screenshot From 2025-02-11 13-31-51.png",
     "Screencast From 2025-02-11 13-22-19.mp4",
-    "Holafly/Holafly Work.md",
-    "2025-02-11.md",
-    "Holafly/Configuracion y Ejecucion en CI-CD.md",
-    "Holafly/QA Team Project.md",
     "DailyNotes",
     "Holafly",
     "Screenshot From 2024-12-31 11-55-15.png",

@@ -12,7 +12,8 @@ How to make money? You should be concentrating on how to take money. Since we ca
 Taking Money as a mindset
 You need to change the way you think about money, most of use think in terms of making money, but only the federal reserve can take money. The idea is to shift your mindset into taking money. You can only take money from someone else. 
 
-Money can only be created by the federal reserve, and they do this in order to inslave us.
+Money can only be created by the federal reserve, and they do this in order to 
+enslave us.
 
 It's not smart to save money, due to inflation, and money is printed everyday. Find a way to take, you cannot make or save. You can ONLY TAKE. 
 
@@ -37,8 +38,20 @@ The correct thing to do is to do all things.. Especially if you are starting fro
 [[Attention and Credibility <PN>]]
 
 **How do you find these cash generating methods?**
+Always think about money, when you buy something, think. How did they manage to take my money? Always think about what they are doing to manage to take your money. 
+Most people to not pay attention on finding ways on making money. MONEY IS VULNERABLE WHEN IT'S MOVING. 
+Identify where and why the money is moving. Always try to get involved where you see money moving. 
+Business is other peoples money.
 
+Very important.. You should always be talking about money. Friends about money. and get close to people that make money. Talk about money all thye time. When you make friends that always talk about money, then they will come up with new ideas. 
 
+All you think about is how others are taking money. This will produce ideas. IT does not have to be a great idea. Starbucks makes billions and they just sell coffee.. People are always spending money. we are always spending money con crap.. lol. 
+
+Rich people only talk to rich people. They do not like talking to broke people. Rich people do not want to talk to poor people. Andrew says it is becuase they rob you from rich people energy. 
+
+The best way to get attention and crediability is through a high level network.
+
+SAME MISSION TO GET RICH (I feel like this is impossible... but it's not)
 ## References 
 - [[]] 
 - [[]] 
