@@ -11,18 +11,28 @@
             "id": "f3dc87114de8ba2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2025-02-17.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Images/Screenshot From 2025-02-17 12-00-00.png"
               },
-              "icon": "lucide-file",
-              "title": "2025-02-17"
+              "icon": "lucide-image",
+              "title": "Screenshot From 2025-02-17 12-00-00"
+            }
+          },
+          {
+            "id": "c3db49ef458ccf89",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Screenshot From 2025-02-17 12-00-00.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot From 2025-02-17 12-00-00"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,10 +212,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3dc87114de8ba2e",
+  "active": "c3db49ef458ccf89",
   "lastOpenFiles": [
-    "Holafly/Important Links.md",
+    "Content Ideas.md",
+    "Images/Screenshot From 2025-02-17 12-00-00.png",
     "2025-02-17.md",
+    "Images",
+    "Holafly/Important Links.md",
     "ITD-2169.md",
     "Deudas.md",
     "Attention and Credibility <PN>.md",
@@ -229,8 +242,6 @@
     "Permanent Notes/Time for Money  <PM>.md",
     "Buying and Selling.md",
     "AI Reinforcement Learning -1 & +1. Digital rewards.md",
-    "ContentNotes/Ecommerce.md",
-    "Permanent Notes/Money Like Water Vulnerable <PN>.md",
     "Screen Recording 2025-01-23 at 17.45.07.mov",
     "Screenshot From 2025-02-11 13-36-37.png",
     "Screencast From 2025-02-11 13-39-25.mp4",
@@ -245,11 +256,9 @@
     "Screenshot From 2024-12-31 12-14-10.png",
     "Screenshot From 2024-12-31 12-09-11.png",
     "Screenshot From 2024-12-31 12-02-55.png",
-    "Screenshot From 2024-12-31 12-03-55.png",
     "Ecommerce",
     "Code & Terminal",
     "Permanent Notes",
-    "ContentNotes",
     "Untitled.canvas"
   ]
 }
