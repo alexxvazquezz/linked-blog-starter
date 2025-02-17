@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "bc0ae96a05dd86d9",
+        "id": "2f127f4edba6f8ba",
         "type": "tabs",
         "children": [
           {
-            "id": "f3dc87114de8ba2e",
+            "id": "8d03b3af1c3ee23b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Screenshot From 2025-02-17 12-00-00.png"
+                "file": "ContentNotes/How to be a G.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot From 2025-02-17 12-00-00"
-            }
-          },
-          {
-            "id": "c3db49ef458ccf89",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Screenshot From 2025-02-17 12-00-00.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot From 2025-02-17 12-00-00"
+              "icon": "lucide-file",
+              "title": "How to be a G"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "25b49471a070ab80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "127296a63fde99c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/No one is going to save you <PN>.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "No one is going to save you <PN>"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +223,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3db49ef458ccf89",
+  "active": "8d03b3af1c3ee23b",
   "lastOpenFiles": [
-    "Content Ideas.md",
+    "Permanent Notes/Set in Stone Honesty <PN>.md",
+    "ContentNotes/How to be a G.md",
+    "You should believe that you can accomplish anything <PN>.md",
+    "Permanent Notes/No one is going to save you <PN>.md",
+    "Permanent Notes/You should be angry at your current situation <PN>.md",
     "Images/Screenshot From 2025-02-17 12-00-00.png",
+    "Content Ideas.md",
     "2025-02-17.md",
     "Images",
     "Holafly/Important Links.md",
@@ -238,10 +254,6 @@
     "Information for Money <PN>.md",
     "ContentNotes/A Woman’s Guide to REAL Masculinity.md",
     "2025-02-12.md",
-    "Permanent Notes/Putting something to work for money <PN>.md",
-    "Permanent Notes/Time for Money  <PM>.md",
-    "Buying and Selling.md",
-    "AI Reinforcement Learning -1 & +1. Digital rewards.md",
     "Screen Recording 2025-01-23 at 17.45.07.mov",
     "Screenshot From 2025-02-11 13-36-37.png",
     "Screencast From 2025-02-11 13-39-25.mp4",
