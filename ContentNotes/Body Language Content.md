@@ -1,5 +1,5 @@
 ---
-title: Body Language
+title: G Mindset
 authors:
   - Andrew Tate
 source: 
@@ -24,7 +24,8 @@ tags:
 	- Change your body language. Flip it from aggressive to sensitive. Or sensitive to aggressive. That shift will make people double guess. 
 - Smiling: It is effective but it need to be selective. Your smile should have value, if you rarely smile it has value when you use it. Smile when its deserved. When something with maret happens. It is a selective tool. Make it worth something. Smile when they are receptive.
 - Look in the eyes when you talk. Don't look like a psychhhhho.. Use eye contact to drive the point in. Use it as ponctuation. When you look into the eyes it because you mean it. 
-- You need     to make it clear that you are listening. It makes them feel important. Pretend that you are listening. 
+- You need     to make it clear that you are listening. It makes them feel important. Pretend that you are listening. \
+
 ## Conclusion
 - {{What is the conclusion or key takeaway from the content?}} 
 
