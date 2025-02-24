@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "95a5a4ec2c96cb82",
+        "id": "70c4875ded5eaf52",
         "type": "tabs",
         "children": [
           {
-            "id": "e8405b7813566a15",
+            "id": "ec766301a2ebc548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holafly/Postman.md",
+                "file": "Holafly/QA Sync.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Postman"
+              "title": "QA Sync"
             }
           }
         ]
@@ -202,16 +202,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8405b7813566a15",
+  "active": "ec766301a2ebc548",
   "lastOpenFiles": [
-    "Holafly/Important Links.md",
     "Holafly/Postman.md",
+    "Holafly/Plan de Pruebas.md",
+    "2025-02-24.md",
+    "Holafly/Standups/02-21-2025.md",
+    "2025-02-21.md",
+    "2025-02-20.md",
+    "ITD-1.md",
+    "Holafly/Important Links.md",
+    "Deudas.md",
+    "ITD-2138.md",
+    "ITD-2169.md",
     "ContentNotes/Body Language Content.md",
     "ContentNotes/How to be a G.md",
     "Permanent Notes/No one is going to save you <PN>.md",
-    "Deudas.md",
     "2025-02-18.md",
-    "Holafly/Standups/02-18-2025.md",
     "Permanent Notes/Set in Stone Honesty <PN>.md",
     "You should believe that you can accomplish anything <PN>.md",
     "Permanent Notes/You should be angry at your current situation <PN>.md",
@@ -219,20 +226,13 @@
     "Content Ideas.md",
     "2025-02-17.md",
     "Images",
-    "ITD-2169.md",
     "Attention and Credibility <PN>.md",
     "Permanent Notes/Information for Money <PM>.md",
     "Holafly/Standups/02-13-2025.md",
     "2025-02-14.md",
     "ContentNotes/Money.md",
     "Permanent Notes/Not Responsible for others feelings <PN>.md",
-    "Permanent Notes/PM<2> Resistance and Flexibility.md",
-    "2025-02-13.md",
-    "Holafly/Standups/02-12-2025.md",
     "Holafly/Standups",
-    "Daily Work.md",
-    "Permanent Notes/Problem with trading time for Money <PN>.md",
-    "Permanent Notes/Trade a product or service for money <PN>.md",
     "Screen Recording 2025-01-23 at 17.45.07.mov",
     "Screenshot From 2025-02-11 13-36-37.png",
     "Screencast From 2025-02-11 13-39-25.mp4",
