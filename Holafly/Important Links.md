@@ -32,3 +32,5 @@ Demo user: demo@holafly.com / 12345
 ### **DB**
 [DB Wharehouse](https://console.cloud.google.com/sql/instances/uservices--pre-warehouse-pg-pre--cloudsql--eplx/studio?inv=1&invt=Abo3OA&project=hly--usvc--pre--a8)
 
+Swagger Providers (DEV) [https://providers-api-dev-6867q.ondigitalocean.app/docs/](https://providers-api-dev-6867q.ondigitalocean.app/docs/)
+providerApi / providerApi
