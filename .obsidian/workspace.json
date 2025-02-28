@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holafly/Important Links.md",
+                "file": "Content Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Important Links"
+              "title": "Content Ideas"
             }
           }
         ]
@@ -204,10 +204,11 @@
   },
   "active": "ec766301a2ebc548",
   "lastOpenFiles": [
+    "2025-02-28.md",
+    "Holafly/Important Links.md",
     "Holafly/Holafly Work.md",
     "2025-02-27.md",
     "Holafly/Postman.md",
-    "Holafly/Important Links.md",
     "2025-02-26.md",
     "Holafly/Way of Work.md",
     "Holafly/Test Plans.md",
@@ -229,7 +230,6 @@
     "Permanent Notes/No one is going to save you <PN>.md",
     "2025-02-18.md",
     "Permanent Notes/Set in Stone Honesty <PN>.md",
-    "You should believe that you can accomplish anything <PN>.md",
     "Images/Screenshot From 2025-02-17 12-00-00.png",
     "Images",
     "Holafly/Standups",
