@@ -7,3 +7,9 @@ token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlbW9AaG9sYWZseS5jb20i
 **Customers**
 x-api-key: 5e92bf11-405e-43ab-9cb8-6c77bff01ca4
 user-agent: f465af363700e43420c7
+
+curl --location '[https://pre-warehouse.holafly.com/api/esims/getStockProviderDestination/Colombia](https://pre-warehouse.holafly.com/api/esims/getStockProviderDestination/Colombia)' \  
+--header 'User-Agent: f465af363700e43420c7 '
+
+curl --location '[https://pre-warehouse.holafly.com/api/esims/getStockProviderDestination/Colombia](https://pre-warehouse.holafly.com/api/esims/getStockProviderDestination/Colombia)' \  
+--header 'User-Agent: f465af363700e43420c7 '
