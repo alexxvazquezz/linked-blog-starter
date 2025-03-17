@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inyeccion Programable/Inyeccion Programable.md",
+                "file": "2025-03-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inyeccion Programable"
+              "title": "2025-03-17"
             }
           }
         ]
@@ -204,11 +204,12 @@
   },
   "active": "53b276d609301185",
   "lastOpenFiles": [
-    "Inyeccion Programable/Inyeccion Programable.md",
+    "Release 16.md",
+    "2025-03-17.md",
+    "Inyeccion Programable/Inyeccion Programable Clase Uno Electricidad.md",
     "Inyeccion Programable",
     "2025-03-13.md",
     "2025-02-18.md",
-    "Release 16.md",
     "Screencast From 2025-03-12 11-41-38.mp4",
     "Screencast From 2025-03-12 11-07-10.mp4",
     "Screenshot From 2025-03-12 09-35-10.png",
@@ -238,7 +239,6 @@
     "Holafly/Test Plans.md",
     "Holafly/SWAPI Tests.md",
     "Holafly/Reporte de Pruebas.md",
-    "Holafly/QA Sync.md",
     "Images/Screenshot From 2025-02-17 12-00-00.png",
     "Images",
     "Holafly/Standups",
