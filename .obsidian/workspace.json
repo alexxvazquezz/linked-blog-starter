@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holafly/Standups/03-24-2025.md",
+                "file": "Deudas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03-24-2025"
+              "title": "Deudas"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inyeccion Programable/Clase 2.md",
+                "file": "2025-03-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clase 2"
+              "title": "2025-03-25"
             }
           }
         ]
@@ -219,6 +219,11 @@
   },
   "active": "53b276d609301185",
   "lastOpenFiles": [
+    "2025-03-27.md",
+    "Holafly/Important Links.md",
+    "Holafly/Standups/03-27-2025.md",
+    "2025-03-25.md",
+    "Inyeccion Programable/Clase 2.md",
     "Holafly/Configuracion y Ejecucion en CI-CD.md",
     "2025-03-21.md",
     "Holafly/QA Sync.md",
@@ -227,14 +232,11 @@
     "Holafly/SWAPI Tests.md",
     "Holafly/Test Plans.md",
     "Holafly/Way of Work.md",
-    "Holafly/Standups/03-24-2025.md",
-    "Inyeccion Programable/Clase 2.md",
     "Inyeccion Programable/Inyeccion Programable Clase Uno Electricidad.md",
     "ContentNotes/Electricity 101.md",
     "2025-03-20.md",
     "Holafly/Postman.md",
     "2025-03-19.md",
-    "Holafly/Important Links.md",
     "Holafly/Standups/02-13-2025.md",
     "Holafly/Holafly Work.md",
     "2025-03-17.md",
@@ -252,8 +254,6 @@
     "searchBarCutOff.mp4",
     "2025-03-12.md",
     "Deudas.md",
-    "2025-03-11.md",
-    "Holafly/Plan de Pruebas.md",
     "Images/Screenshot From 2025-02-17 12-00-00.png",
     "Images",
     "Holafly/Standups",
