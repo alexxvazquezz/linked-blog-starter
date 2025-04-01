@@ -34,3 +34,7 @@ Demo user: demo@holafly.com / 12345
 
 Swagger Providers (DEV) [https://providers-api-dev-6867q.ondigitalocean.app/docs/](https://providers-api-dev-6867q.ondigitalocean.app/docs/)
 providerApi / providerApi
+
+https://internationalization.holafly.com/login
+product@holafly.com
+`I18NPRODUCTO`
