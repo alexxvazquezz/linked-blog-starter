@@ -13,3 +13,4 @@ curl --location '[https://pre-warehouse.holafly.com/api/esims/getStockProviderDe
 
 curl --location '[https://pre-warehouse.holafly.com/api/esims/getStockProviderDestination/Colombia](https://pre-warehouse.holafly.com/api/esims/getStockProviderDestination/Colombia)' \  
 --header 'User-Agent: f465af363700e43420c7 '
+ x-api-key: ARgEm3y2bvqJa9HpSsPUhZ
