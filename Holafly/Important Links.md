@@ -38,3 +38,9 @@ providerApi / providerApi
 https://internationalization.holafly.com/login
 product@holafly.com
 `I18NPRODUCTO`
+
+
+# Astro Links
+https://pre-esim.holafly.com/esim-marrakech/
+https://pre-esim.holafly.com/esim-papeete/
+https://pre-esim.holafly.com/esim-dubai/
