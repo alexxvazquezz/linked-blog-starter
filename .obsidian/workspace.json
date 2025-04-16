@@ -37,8 +37,7 @@
               "title": "2025-04-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a15f827214020ca4",
+  "active": "5992c3487d1a852f",
   "lastOpenFiles": [
-    "Holafly/Important Links.md",
     "2025-04-16.md",
+    "Holafly/Important Links.md",
     "2025-04-15.md",
     "Holafly/Postman.md",
     "2025-04-08.md",
