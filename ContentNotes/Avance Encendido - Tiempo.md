@@ -52,6 +52,8 @@ THe maximux torque in the curve is dependent on volumetric eficiance, Usually an
 
 The temperature of the exhaust changes with timing. Advanced timing witll lower the temperature of the pipe. Retarding timing witll heat it up. 
 
+00:58
+
 - [[]] 
 - [[]] 
 
