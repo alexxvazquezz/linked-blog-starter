@@ -26,6 +26,9 @@ If you make the airflow mixture richer, this will lower the tempature becuase so
 
 ![[Screenshot From 2025-04-17 10-36-30.png]]
 
+The goal is to get the peak preassure when the piston is passing TDC, think of it as a bike pedal. SInce it takes time to combust all the fuel to reach the maximux pressure, different things can change the rate of combustion. Leaner fuel will make it the combustion faster, richer fuel and make is slower. More compression can make it faster, hotter combustion bay can make it faster. 
+
+If it becomes faster, you may need to retard the timing or make the AFM richer. 
 
 
 
