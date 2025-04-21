@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deudas.md",
+                "file": "Holafly/Important Links.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Deudas"
+              "title": "Important Links"
             }
           }
         ]
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,11 +204,14 @@
   },
   "active": "9af0ae58b76ba3c6",
   "lastOpenFiles": [
+    "2025-02-05.md",
+    "Holafly/Important Links.md",
+    "2025-04-21.md",
+    "Deudas.md",
     "ContentNotes/Avance Encendido - Tiempo.md",
     "2025-04-16.md",
     "2025-04-17.md",
     "Screenshot From 2025-04-17 10-36-30.png",
-    "Holafly/Important Links.md",
     "2025-04-15.md",
     "Holafly/Postman.md",
     "2025-04-08.md",
@@ -227,8 +231,6 @@
     "2025-04-04.md",
     "2025-04-03.md",
     "2025-04-01.md",
-    "2025-03-25.md",
-    "2025-03-28.md",
     "Inyeccion Programable",
     "Screencast From 2025-03-12 11-41-38.mp4",
     "Screencast From 2025-03-12 11-07-10.mp4",
