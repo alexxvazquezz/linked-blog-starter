@@ -44,3 +44,19 @@ product@holafly.com
 https://pre-esim.holafly.com/esim-marrakech/
 https://pre-esim.holafly.com/esim-papeete/
 https://pre-esim.holafly.com/esim-dubai/
+
+LOGS:
+https://gl.holafly.com/welcome
+
+
+Traditional China should be:
+Europe, United States, Australia, Egypt, Thailand, Canada, 
+But its : Europe, United States, Australia, Egypt, Indonesia, Dubai
+
+Norwegian:
+United States, Turkey, Japan, Asia, Indonesia, Emirates Arabs
+United States, Turkey, Japan, Asia, Indonesia, Dubai
+
+Polish:
+Europe, United States, Turkey, Egypt, United Kingdom, Emirates Arabs
+Europe, United States, Turkey, Egypt, United Kingdom, Dubai
