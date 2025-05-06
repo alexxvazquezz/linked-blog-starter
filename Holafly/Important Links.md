@@ -49,14 +49,6 @@ LOGS:
 https://gl.holafly.com/welcome
 
 
-Traditional China should be:
-Europe, United States, Australia, Egypt, Thailand, Canada, 
-But its : Europe, United States, Australia, Egypt, Indonesia, Dubai
+https://partners.holafly.com/
 
-Norwegian:
-United States, Turkey, Japan, Asia, Indonesia, Emirates Arabs
-United States, Turkey, Japan, Asia, Indonesia, Dubai
 
-Polish:
-Europe, United States, Turkey, Egypt, United Kingdom, Emirates Arabs
-Europe, United States, Turkey, Egypt, United Kingdom, Dubai
