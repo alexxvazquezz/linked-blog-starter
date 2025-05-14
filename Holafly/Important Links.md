@@ -22,12 +22,23 @@ User agent: f465af363700e43420c7
 [Bug Report Definition](https://holaflyers.atlassian.net/wiki/spaces/QA/pages/118358070/Bug+Report+definiton)
 
 ### **KANBAN Boards:**
-[Frontend](https://holaflyers.atlassian.net/jira/software/c/projects/ITD/boards/33)
-[Ecommerce](https://holaflyers.atlassian.net/jira/software/c/projects/ITD/boards/72)
-[Backend](https://holaflyers.atlassian.net/jira/software/c/projects/ITD/boards/73)
+
 
 ### **Users**
 Demo user: demo@holafly.com / 12345
+
+**Boards**
+[Black Squad](https://holaflyers.atlassian.net/jira/software/c/projects/IBS/boards/280)
+[Public Content Squad](https://holaflyers.atlassian.net/jira/software/c/projects/IPCS/boards/281)
+[Mobile Squad](https://holaflyers.atlassian.net/jira/software/c/projects/ITMOB/boards/67)
+[Blue Squad](https://holaflyers.atlassian.net/jira/software/c/projects/IBLS/boards/283)
+[Red Squad](https://holaflyers.atlassian.net/jira/software/c/projects/IRS/boards/282)
+
+**Daily Standups**
+[Black Squad Daily](https://meet.google.com/vhr-cqbg-ghd)
+[Public Squad Daily](https://meet.google.com/fax-dhjx-fvk)
+[Mobile Squad Daily](https://meet.google.com/inm-kybr-hnr)
+
 
 ### **DB**
 [DB Wharehouse](https://console.cloud.google.com/sql/instances/uservices--pre-warehouse-pg-pre--cloudsql--eplx/studio?inv=1&invt=Abo3OA&project=hly--usvc--pre--a8)
