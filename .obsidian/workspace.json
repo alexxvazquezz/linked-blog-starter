@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holafly/Important Links.md",
+                "file": "Deudas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Important Links"
+              "title": "Deudas"
             }
           }
         ]
@@ -204,6 +204,8 @@
   },
   "active": "3154d088a79eb28f",
   "lastOpenFiles": [
+    "2025-05-27.md",
+    "Holafly/Important Links.md",
     "2025-05-26.md",
     "Screenshot From 2025-04-17 10-36-30.png",
     "Home.md",
@@ -214,7 +216,6 @@
     "ContentNotes/The Animus-Anima.md",
     "2025-05-24.md",
     "The Anima /Animus.md",
-    "Holafly/Important Links.md",
     "Holafly/Configuracion y Ejecucion en CI-CD.md",
     "ContentNotes/Body Language Content.md",
     "2025-05-21.md",
