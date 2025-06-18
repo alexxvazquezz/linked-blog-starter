@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e699ff65898cadad",
+        "id": "40274afbea9ac97a",
         "type": "tabs",
         "children": [
           {
-            "id": "3154d088a79eb28f",
+            "id": "a43d2b7e5450c231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-03.md",
+                "file": "2025-06-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-03"
-            }
-          },
-          {
-            "id": "d8a9348548d9ed14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anna.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Anna"
+              "title": "2025-06-18"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "download youtube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +85,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,38 +201,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8a9348548d9ed14",
+  "active": "a43d2b7e5450c231",
   "lastOpenFiles": [
-    "2025-06-03.md",
-    "Anna.md",
-    "Deudas.md",
-    "2025-05-27.md",
-    "Holafly/Important Links.md",
-    "2025-05-26.md",
-    "Screenshot From 2025-04-17 10-36-30.png",
-    "Home.md",
-    "EGO.md",
-    "Combatabiliy Modal.md",
-    "Content Ideas.md",
-    "ContentNotes/The Animus-Anima.md",
-    "2025-05-24.md",
-    "The Anima /Animus.md",
-    "Holafly/Configuracion y Ejecucion en CI-CD.md",
+    "2025-06-13.md",
+    "2025-06-18.md",
+    "ContentNotes/Terminal - Download Youtube videos - best quality.md",
+    "Holafly/QA FLOW.md",
+    "Holafly/Postman.md",
+    "Holafly/API.md",
+    "ContentNotes/Prompting in AI.md",
+    "ContentNotes/Example Podcast.md",
+    "ContentNotes/Example Book.md",
+    "ContentNotes/Electricity 101.md",
+    "ContentNotes/Communication.md",
+    "ContentNotes/Computer Vision.md",
     "ContentNotes/Body Language Content.md",
-    "2025-05-21.md",
-    "ContentNotes/Psyche Jungian.md",
-    "The Shadow.md",
-    "The Persona.md",
-    "The Self.md",
+    "ContentNotes/Balanced Data Sets.md",
+    "ContentNotes/Avance Encendido - Tiempo.md",
+    "ContentNotes/Automation with Cypress.md",
+    "ContentNotes/A Woman’s Guide to REAL Masculinity.md",
+    "ContentNotes/Artificial Intelligence.md",
+    "Holafly/Important Links.md",
+    "2025-06-03.md",
+    "2025-06-05.md",
+    "You should believe that you can accomplish anything <PN>.md",
+    "SONGS FOR VIDEO CONTENT.md",
+    "Home.md",
+    "AI Reinforcement Learning -1 & +1. Digital rewards.md",
+    "Anna.md",
+    "Screenshot From 2025-04-17 10-36-30.png",
     "Screenshot From 2025-05-14 18-12-39.png",
-    "ContentNotes/Animus.md",
     "The Anima ",
-    "FleetingNotes/Job hunting .md",
-    "FleetingNotes/Investments ideas .md",
     "The Anima",
-    "FleetingNotes/Madurity .md",
-    "FleetingNotes/K9.md",
-    "DailyNotes/2024-10-26.md",
     "DeleteX.mp4",
     "searchBarCutOff.mp4",
     "nav-tab-search.mp4",
